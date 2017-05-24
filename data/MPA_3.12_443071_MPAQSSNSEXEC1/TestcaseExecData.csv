@@ -1,0 +1,1221 @@
+TestCaseID,testCase_Name,testCase_State,testCase_startTimestamp,$testCase_stopTimestamp,module_Name,mpa_Patch,mpa_Release,testEnv_Client,testEnv_Server
+1,Progress Bar,finished,15.12.2016 21:40:56,15.12.2016 21:44:17,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10000,Create a new text module type,finished,15.12.2016 17:10:28,15.12.2016 17:11:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10001,Create a new template type,finished,15.12.2016 17:15:10,15.12.2016 17:15:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10003,Generating standard-view for a ward,finished,15.12.2016 20:55:01,15.12.2016 21:01:14,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10005,Generating extension-view for a ward, which already has a standard-view,finished,15.12.2016 20:47:20,15.12.2016 20:54:56,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10008,Dynamical generation of ward-views in bedmanagement-workarea,finished,15.12.2016 21:30:58,15.12.2016 21:35:55,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10027,Edit a reservation,finished,16.12.2016 00:18:09,16.12.2016 00:19:48,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10030,Edit a reservation and enter data to create a reservation which overlaps with another one,finished,16.12.2016 00:19:52,16.12.2016 00:21:47,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10031,Edit a reservation and enter data to create a reservation, which overlaps with an existing stay,finished,16.12.2016 00:21:53,16.12.2016 00:23:06,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10034,Delete a reservation,finished,16.12.2016 00:23:10,16.12.2016 00:24:11,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10053,Create a new document type group,finished,15.12.2016 17:08:49,15.12.2016 17:09:33,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10061,Create a new document subject,finished,15.12.2016 17:12:46,15.12.2016 17:13:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10082,Back to todo list - new navigation bar,finished,16.12.2016 03:35:34,16.12.2016 03:36:59,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10127,Workflow Wizard - order requested (no predefinition of form),finished,16.12.2016 02:15:08,16.12.2016 02:16:44,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10154,Ordering at process start - form selection,finished,16.12.2016 11:40:36,16.12.2016 11:41:58,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10162,Ordering at process start - form selection and order,finished,16.12.2016 11:42:03,16.12.2016 11:43:30,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10163,Ordering at process start - order without form selection,finished,16.12.2016 11:45:16,16.12.2016 11:46:32,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10164,Ordering at process start - order standardized (default profile),finished,16.12.2016 12:00:47,16.12.2016 12:02:04,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10165,Ordering at process start - order profile selection,finished,16.12.2016 11:46:37,16.12.2016 11:47:59,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10166,Order propagation in workflow - main+subprocess,finished,16.12.2016 11:48:03,16.12.2016 11:49:32,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10167,Order propagation in workflow - process programs,finished,16.12.2016 11:49:37,16.12.2016 11:51:58,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10168,Order propagation in workflow - new process by CFT,finished,16.12.2016 12:03:38,16.12.2016 12:05:15,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10178,Ordering at process start - form change in wizard,finished,16.12.2016 11:43:35,16.12.2016 11:45:11,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10204,Delete an address catalog,finished,15.12.2016 17:14:10,15.12.2016 17:15:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10211,Transfer patient into previous bed (create new transfer data),finished,15.12.2016 23:12:57,15.12.2016 23:15:19,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10236,Priority - emergency,finished,16.12.2016 04:54:16,16.12.2016 04:57:36,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10258,Open a folder on the treebrowser (click on symbol),finished,15.12.2016 21:36:36,15.12.2016 21:37:56,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10259,Open a folder on the treebrowser (double click),finished,15.12.2016 21:35:11,15.12.2016 21:36:31,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10264,Start check - indicate previous process start (discharged),finished,16.12.2016 02:10:18,16.12.2016 02:12:49,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10268,Process program - partner system (process selection first),finished,16.12.2016 04:09:45,16.12.2016 04:11:50,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10277,Show the content of a document with a dictation,finished,15.12.2016 19:25:23,15.12.2016 19:26:39,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10279,Symbols - process symbols (refresh after change, multiple clients),finished,16.12.2016 03:00:50,16.12.2016 03:06:05,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10285,Process program - autostart process (patient not necessary),finished,16.12.2016 04:32:43,16.12.2016 04:35:12,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10291,Subprocess - multiple execution,finished,16.12.2016 04:11:57,16.12.2016 04:14:57,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10313,Edit a preferred date,finished,16.12.2016 07:24:49,16.12.2016 07:26:20,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10324,Change an existing template,finished,15.12.2016 17:09:38,15.12.2016 17:10:24,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10327,Open the workarea Patient Documents for a patient whose firstname has 18 letters,finished,15.12.2016 21:02:14,15.12.2016 21:03:00,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10330,medical discharge,finished,16.12.2016 00:57:10,16.12.2016 01:01:34,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+10340,LKF UserRole change (gf.viewer.def.DefDefinitionDLDialog.standard),finished,16.12.2016 00:11:34,16.12.2016 00:14:36,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+10352,Insert an existing TC definition,finished,15.12.2016 19:10:09,15.12.2016 19:13:49,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10358,Edit a text module of a write protected document,finished,15.12.2016 19:36:14,15.12.2016 19:39:13,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10363,Move an appointment by drag&drop into not available area (plan),finished,15.12.2016 19:01:49,15.12.2016 19:03:26,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10365,Move an appointment by cut&paste into not available area (plan),finished,15.12.2016 19:05:15,15.12.2016 19:07:24,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10370,Diktat anlegen aus MCC (Meierhofer) über MPAApplication.doc,finished,16.12.2016 05:57:03,16.12.2016 06:02:24,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10379,Transfer a patient via clipboard to an occupied bed,finished,15.12.2016 23:37:24,15.12.2016 23:38:59,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10380,Transfer a patient via clipboard (no patient is in the clipboard),finished,15.12.2016 23:39:03,15.12.2016 23:40:22,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10388,Create a new order position freetext,finished,16.12.2016 06:13:53,16.12.2016 06:14:18,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10392,End a patients time off,finished,15.12.2016 23:42:03,15.12.2016 23:44:36,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10397,Reset todo - mode 3 (different client),finished,16.12.2016 03:29:22,16.12.2016 03:35:26,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10400,Record a note for a case,finished,15.12.2016 22:47:32,15.12.2016 22:48:49,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10401,Record a note for a bed,finished,15.12.2016 22:50:09,15.12.2016 22:51:18,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10403,Record a note for a ward,finished,15.12.2016 22:52:33,15.12.2016 22:53:36,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10409,Delete a note for a patient,finished,15.12.2016 22:46:16,15.12.2016 22:47:29,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10410,Delete a note for a case,finished,15.12.2016 22:48:53,15.12.2016 22:50:05,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10411,Delete a note for a bed,finished,15.12.2016 22:51:22,15.12.2016 22:52:29,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10414,Delete a note for a ward,finished,15.12.2016 22:53:40,15.12.2016 22:54:41,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10419,Change ward,finished,15.12.2016 21:06:26,15.12.2016 21:08:19,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10422,Show the patient information (select patient on the treebrowser),finished,15.12.2016 21:35:59,15.12.2016 21:38:07,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10425,Show patient information (open the workarea Details Patient),finished,15.12.2016 21:19:08,15.12.2016 21:20:55,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10445,Transfer via action button,finished,15.12.2016 21:45:54,15.12.2016 21:48:02,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10446,Discharge patient via action button to pool,finished,15.12.2016 21:48:07,15.12.2016 21:49:49,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10447,Add a symbol via action button,finished,15.12.2016 21:49:53,15.12.2016 21:51:38,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10448,Add a case note via action button,finished,15.12.2016 21:51:42,15.12.2016 21:52:59,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10449,Add a bed symbol via action button,finished,15.12.2016 21:53:03,15.12.2016 21:54:17,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10450,Add a bed note via action button,finished,15.12.2016 21:54:21,15.12.2016 21:55:31,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10451,Open the workarea Patient Documents via action button,finished,15.12.2016 21:55:35,15.12.2016 21:57:17,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10452,Print work organizers via action button,finished,15.12.2016 21:57:22,15.12.2016 21:58:29,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10453,Start the dictation process via action button,finished,15.12.2016 21:58:36,15.12.2016 22:01:19,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10454,Open the appointment calendar via action button,finished,15.12.2016 22:01:24,15.12.2016 22:02:59,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10455,Open the appointments overview via action button,finished,15.12.2016 22:03:03,15.12.2016 22:04:32,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10456,Open the workarea Start Workflow via action button,finished,15.12.2016 22:04:37,15.12.2016 22:06:17,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10457,Open the workarea DRG Workplace via action button,finished,15.12.2016 22:06:21,15.12.2016 22:08:15,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10458,Create procedures by an order form via action button,finished,15.12.2016 22:10:06,15.12.2016 22:11:16,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10460,Show the procedures of a case via action button,finished,15.12.2016 22:11:19,15.12.2016 22:12:25,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10461,Permission to view wards after a change of user,finished,15.12.2016 21:13:18,15.12.2016 21:16:26,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10462,Permission to view wards after a change of the role,finished,15.12.2016 21:10:38,15.12.2016 21:13:12,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10471,medical discharge not allowed - followed by user change,finished,16.12.2016 01:01:49,16.12.2016 01:11:10,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+10473,Dictate for an outpatient case,failed,16.12.2016 02:24:10,16.12.2016 02:28:41,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10474,Choosing employee window has to appear in front of Leistungen WA,finished,16.12.2016 11:52:03,16.12.2016 11:53:25,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10491,Tooltip on occupied bed (forceDirectPainting is true),finished,15.12.2016 22:57:29,15.12.2016 22:59:09,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10492,Tooltip on free bed (forceDirectPainting is true),finished,15.12.2016 22:56:08,15.12.2016 22:57:23,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10493,Tooltip on a room symbol,finished,15.12.2016 22:59:12,15.12.2016 23:00:27,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10494,Tooltip on a ward symbol,finished,15.12.2016 23:00:31,15.12.2016 23:01:48,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10499,Show the bedroomward information (update bed information),finished,15.12.2016 21:23:02,15.12.2016 21:25:11,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10505,Save procedures by an order in workflow (auto save on forward),finished,16.12.2016 12:13:13,16.12.2016 12:14:30,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10512,Add a main-diagnosis to a case,finished,15.12.2016 22:12:30,15.12.2016 22:14:58,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10571,Symbol for wards,finished,15.12.2016 21:08:24,15.12.2016 21:08:47,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10576,Insert a mobile bed,finished,15.12.2016 21:25:16,15.12.2016 21:26:29,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10577,Remove a mobile bed,finished,15.12.2016 21:26:34,15.12.2016 21:27:46,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10593,Protocolation of action Vorlage.newObject on document-templates,finished,15.12.2016 22:18:55,15.12.2016 22:21:55,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10627,Planning surgery appt without case,finished,16.12.2016 00:40:42,16.12.2016 00:47:00,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10638,Search by Specialty,finished,15.12.2016 22:23:44,15.12.2016 22:25:44,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10639,Search by Planned Date,finished,15.12.2016 22:25:54,15.12.2016 22:27:47,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10657,Open WA OP Dokumentation 1,failed,15.12.2016 23:17:36,15.12.2016 23:20:11,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10666,Commit SurgerySession - UserQuestion,finished,15.12.2016 22:50:36,15.12.2016 22:55:20,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10667,Commit SurgerySession - SurgerySession validators,finished,15.12.2016 22:45:41,15.12.2016 22:50:24,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10671,Button Stationären Aufenthalt  Current case,finished,15.12.2016 22:36:54,15.12.2016 22:40:55,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10673,Workarea OP PlanungSurgery Planning,finished,15.12.2016 21:57:26,15.12.2016 22:02:19,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10677,Button Set case to surgery session,finished,15.12.2016 23:52:16,15.12.2016 23:56:11,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10680,Save SurgerySession - SurgerySession validators,finished,15.12.2016 22:55:31,15.12.2016 22:57:15,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10688,SpeechMike - Dictate from Bed Management,finished,15.12.2016 22:58:26,15.12.2016 23:02:22,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10700,Customizing OP PersonalStaff Type,finished,16.12.2016 01:11:12,16.12.2016 01:15:20,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10715,Workarea OP Calender,finished,15.12.2016 22:15:41,15.12.2016 22:21:16,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10716,Display OP Header,finished,15.12.2016 22:02:34,15.12.2016 22:09:12,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10720,Change Planned duration of surgeryOP,finished,16.12.2016 01:01:55,16.12.2016 01:07:28,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+10777,Search for clinical comments,finished,16.12.2016 12:33:16,16.12.2016 12:34:41,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+10790,SpeechMike - Start to listen a dictation while editing an other one,finished,15.12.2016 23:20:18,15.12.2016 23:22:11,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10843,SpeechMike - Start 2 dictations,failed,15.12.2016 23:07:24,15.12.2016 23:10:28,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10858,SpeechMike - Information about a dictation is shown on the window title,finished,15.12.2016 23:28:09,15.12.2016 23:30:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10859,SpeechMike - Start to listen a dictation while listening to an other one,finished,15.12.2016 23:18:18,15.12.2016 23:20:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10871,Delete document - dictation,finished,15.12.2016 17:38:39,15.12.2016 17:42:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10915,Export von Diagnoses  Leistungen,finished,16.12.2016 17:32:45,16.12.2016 17:50:46,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+10919,SpeechMike - Add a dictation to an existing Word document,finished,15.12.2016 23:34:19,15.12.2016 23:38:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10975,Select several appointments (Rel. = 3.9),finished,15.12.2016 17:40:48,15.12.2016 17:44:41,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+10981,Open clinical document not reinitializing textblocks,failed,16.12.2016 01:09:05,16.12.2016 01:12:45,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10982,Open clinical document reinitializing textblocks,failed,16.12.2016 01:12:51,16.12.2016 01:16:31,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+10996,Customizing of AuthenticationProperties on non-Systema-Vendors,finished,15.12.2016 20:28:49,15.12.2016 20:29:46,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11004,Open WA OP Dokumentation 2,finished,15.12.2016 23:20:23,15.12.2016 23:25:45,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11010,Button Eingriff hinzufügen  Add surgeryOP,finished,15.12.2016 23:25:56,15.12.2016 23:29:47,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11067,Use connections in an order, save it,finished,16.12.2016 06:44:53,16.12.2016 06:46:05,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11082,View Headerinformation - Waiting listInpatient case,finished,15.12.2016 22:09:23,15.12.2016 22:13:53,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11087,Planning surgery appt with case,finished,16.12.2016 00:47:10,16.12.2016 00:50:58,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11092,Available orders (no ordertype associated),finished,16.12.2016 06:46:09,16.12.2016 06:47:54,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11095,Search by OP Name,finished,15.12.2016 22:21:28,15.12.2016 22:23:35,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11099,Delete an order via button (select yes),finished,16.12.2016 07:59:22,16.12.2016 08:01:19,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11100,Delete an order via button (select no),finished,16.12.2016 08:01:23,16.12.2016 08:02:29,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11101,Update document information,finished,15.12.2016 21:32:13,15.12.2016 21:33:41,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11102,Delete an order via button (select cancel),finished,16.12.2016 10:11:29,16.12.2016 10:13:46,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11103,Delete an order via pop-up menu (select cancel),finished,16.12.2016 10:16:14,16.12.2016 10:17:22,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11104,Update view DokumentEditor when changing Role,finished,15.12.2016 21:11:24,15.12.2016 21:15:39,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11105,Delete an order via pop-up menu (select yes),finished,16.12.2016 10:13:52,16.12.2016 10:14:58,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11106,Delete an order via pop-up menu (select no),finished,16.12.2016 10:15:03,16.12.2016 10:16:10,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11108,Print OrganisationsmittelWorkorganizers different Printer,finished,16.12.2016 02:36:37,16.12.2016 02:38:01,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11124,Create a new MaterialType,finished,16.12.2016 06:25:46,16.12.2016 06:27:02,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11126,Start planned process automatically due to Assoc TerminBuchAutoStartMetaProzess,finished,15.12.2016 19:57:15,15.12.2016 20:00:00,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11133,Create a new OrderProfile,finished,16.12.2016 06:22:27,16.12.2016 06:25:41,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11160,External EDIFACT Distribution of documents  simple file_name_expression,finished,16.12.2016 04:42:13,16.12.2016 04:45:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11161,Treebrowser of workarea 'order browser',finished,16.12.2016 07:36:31,16.12.2016 07:37:40,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11162,Selection of an existing order,finished,16.12.2016 07:40:03,16.12.2016 07:42:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11163,Edit an order (via double click),finished,16.12.2016 07:19:38,16.12.2016 07:21:09,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11166,Edit an order (via pop-up menu),finished,16.12.2016 07:21:13,16.12.2016 07:22:46,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11171,Start Workflow - general and patient related workarea (data comparison),finished,16.12.2016 02:18:29,16.12.2016 02:20:50,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11175,Document Import via EDIFACT  Import successfull AND AZ found,finished,16.12.2016 04:48:07,16.12.2016 04:51:49,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11178,Add a new block in  ''COS-Workarea'' - mandatory relation,failed,16.12.2016 01:30:44,16.12.2016 01:33:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11179,Start Workflow - 'Gestartet',finished,16.12.2016 02:48:35,16.12.2016 02:49:29,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11180,Print an order,finished,16.12.2016 11:20:38,16.12.2016 11:23:48,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11181,Show appointments - additional workflow workarea,finished,16.12.2016 05:51:46,16.12.2016 05:54:28,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11182,Print an order directly from open form,finished,16.12.2016 11:32:12,16.12.2016 11:34:19,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11185,Print an order (no printtemplate associated),finished,16.12.2016 11:27:16,16.12.2016 11:28:57,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11187,Print an order (change number of copies),finished,16.12.2016 11:23:53,16.12.2016 11:25:21,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11188,Print an order (no printtemplate selected),finished,16.12.2016 11:25:26,16.12.2016 11:27:11,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11190,Document Import via EDIFACT  Import successfull and AZ NOT found,finished,16.12.2016 04:51:55,16.12.2016 04:54:33,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11207,Generate a description (via button),finished,16.12.2016 07:17:21,16.12.2016 07:18:26,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11209,Generate a description (via pop-up menu),finished,16.12.2016 07:18:31,16.12.2016 07:19:34,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11210,Send an order (via button),finished,16.12.2016 06:53:14,16.12.2016 06:55:09,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11212,Send on order (via pop-up menu),finished,16.12.2016 06:55:13,16.12.2016 06:57:02,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11219,Automatic process start - by administrative discharge,finished,16.12.2016 02:28:17,16.12.2016 02:32:09,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11221,Automatic process start - by medical discharge,finished,16.12.2016 02:32:20,16.12.2016 02:34:59,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11223,Automatic process start - by ambulant treatment end,finished,16.12.2016 02:35:09,16.12.2016 02:37:18,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11226,View planned admission in BM,finished,15.12.2016 23:52:02,15.12.2016 23:56:12,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11227,Admit a planned admission in BM,failed,15.12.2016 23:56:18,16.12.2016 00:01:52,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11228,Refresh the planned admissions,finished,16.12.2016 00:01:57,16.12.2016 00:06:14,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11230,History button,finished,16.12.2016 06:57:07,16.12.2016 06:58:57,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11232,Create 2 new orders of the same type for different patients,finished,16.12.2016 07:15:41,16.12.2016 07:17:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11233,PosValue button,finished,16.12.2016 07:13:11,16.12.2016 07:15:36,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11234,Change the sort number of an order position,finished,16.12.2016 06:14:22,16.12.2016 06:14:49,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+1127,Modify data for an ambulatory case,finished,16.12.2016 07:33:30,16.12.2016 07:37:58,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11282,SpeechMike - Dictate from case header (workarea Patient Document),finished,15.12.2016 23:10:34,15.12.2016 23:14:15,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11284,Some tabs in Clinical document,failed,16.12.2016 02:44:41,16.12.2016 02:48:29,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11286,Modify Date, Time and Doctor for Textblock,failed,16.12.2016 01:24:13,16.12.2016 01:26:51,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11287,Open clinical document again, no initializing textblocks created,failed,16.12.2016 01:16:37,16.12.2016 01:20:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11289,SpeechMike - Dictate from case header (cancel SpeechMike),finished,15.12.2016 23:05:02,15.12.2016 23:07:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+1129,Modify data for an in-patient case,finished,16.12.2016 07:38:09,16.12.2016 07:41:28,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11304,DiagnosisProcedure take over from previous cases,finished,15.12.2016 23:22:54,15.12.2016 23:26:16,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11306,Delete Procedure  User Change,finished,16.12.2016 01:26:25,16.12.2016 01:30:21,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+1131,Admission Button Andere Person,finished,16.12.2016 06:44:56,16.12.2016 06:50:55,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+1132,Admission with previous case, Geb.Name, Geschlecht,Geb.datum are not editable,finished,16.12.2016 10:15:17,16.12.2016 10:18:17,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+1134,New admission with open previous In-patient case,finished,16.12.2016 06:51:06,16.12.2016 06:53:53,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11355,Permission for Procedure insert, update, delete,finished,16.12.2016 01:50:01,16.12.2016 01:54:54,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11357,No Permission for Procedure insert, update, delete,finished,16.12.2016 01:55:04,16.12.2016 02:01:56,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11359,Modify Anzahl, Leistungsdatum and LKF relevant,finished,16.12.2016 01:33:49,16.12.2016 01:35:51,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11362,AnlBenutzer and ModBenutzer of Diagnosis,finished,15.12.2016 23:26:25,15.12.2016 23:28:40,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11363,AnlBenutzer and ModBenutzer of Procedure,finished,16.12.2016 02:02:04,16.12.2016 02:04:44,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11368,Insert a mobile bed (maximum number of beds reached),finished,15.12.2016 21:27:50,15.12.2016 21:28:48,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11369,Remove a mobile bed (minimum number of beds reached),finished,15.12.2016 21:28:52,15.12.2016 21:29:46,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+1137,Socialsecuritynumber-check,finished,16.12.2016 06:59:15,16.12.2016 07:03:00,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11384,Scoring & case discharged as Transfer (SAP),finished,16.12.2016 00:19:10,16.12.2016 00:21:14,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11386,Search for procedures (MEL and Hausleistungen),finished,16.12.2016 01:37:40,16.12.2016 01:47:23,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11390,Plausibility check diagnosis - Patient-Age,finished,15.12.2016 23:52:11,15.12.2016 23:57:19,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11391,Plausibility check diagnosis - Patient-Sex,finished,15.12.2016 23:57:28,15.12.2016 23:58:50,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11394,Plausibility check main diagnosis - exogenic noxa (Exogene Noxe),finished,16.12.2016 00:01:14,16.12.2016 00:02:57,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11395,Plausibility check - referral diagnosis exogenic noxa (Exogene Noxen),finished,16.12.2016 00:03:04,16.12.2016 00:04:38,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11396,Plausibility check - admission diagnosis exogenic noxa (Exogene Noxen),finished,16.12.2016 00:04:44,16.12.2016 00:06:15,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11397,Plausibility check - referral diagnosis S or T-diagnosis,finished,16.12.2016 00:06:22,16.12.2016 00:07:53,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11399,Plausibility check - main diagnosis S or T-diagnosis,finished,15.12.2016 23:58:57,16.12.2016 00:01:06,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+114,Todo list - automatically sorted,finished,16.12.2016 02:56:31,16.12.2016 03:00:40,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11401,Assign symbols to a SurgerySession,finished,15.12.2016 22:41:07,15.12.2016 22:45:29,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11402,PlausibilitätsPrüfung Procedure - Patient-Age,finished,16.12.2016 02:04:51,16.12.2016 02:08:11,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11403,PlausibilitätsPrüfung Procedure - Patient-Sex,finished,16.12.2016 02:08:18,16.12.2016 02:10:47,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11416,OWC Konstrolliste DL Template,finished,16.12.2016 00:47:37,16.12.2016 00:49:29,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11423,Customizing SurgeryOPCatalog-basic changes,finished,16.12.2016 01:15:31,16.12.2016 01:20:38,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11424,Plan in OP Calendar Use DefaultDuration from calendar,finished,16.12.2016 00:55:51,16.12.2016 01:01:43,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11425,Set a dictation date,finished,15.12.2016 19:06:51,15.12.2016 19:10:03,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11426,Process program - resource 'Jeder' (mainprocess without task+subprocess with WeiterleitenCFT + Distributor),finished,16.12.2016 04:03:57,16.12.2016 04:07:10,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11438,A dictating doctor is proposed,finished,15.12.2016 17:35:46,15.12.2016 17:38:30,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+1144,Role change - Navigationbar andToolbar correctly loaded,finished,15.12.2016 19:49:51,15.12.2016 19:55:07,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11441,Write a new Word document and print it,finished,15.12.2016 18:42:26,15.12.2016 18:45:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11442,Switch between tabs,finished,15.12.2016 21:33:46,15.12.2016 21:35:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11443,Permission to read documents,finished,15.12.2016 21:15:44,15.12.2016 21:19:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11449,Permission to read documents (depending on a secutiry expression),finished,15.12.2016 21:20:02,15.12.2016 21:23:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11451,Open the workarea Patient Documents from the workarea Bed Management,finished,15.12.2016 21:03:05,15.12.2016 21:04:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11452,Write and distribute a new document from the workarea Bed Management,finished,15.12.2016 20:30:44,15.12.2016 20:34:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11458,PlausibilitätsPrüfung Procedure - MELMEL Combination not allowed,finished,16.12.2016 02:10:54,16.12.2016 02:12:37,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11461,Validate a document (button),finished,16.12.2016 00:36:46,16.12.2016 00:38:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11463,In-patient new admission without Direct - Payer (SZ),finished,16.12.2016 10:57:21,16.12.2016 11:00:56,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11464,Validate a document with a validation process,finished,16.12.2016 00:43:25,16.12.2016 00:46:46,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11465,In-patient admission automatically limit of insurance,finished,16.12.2016 10:53:33,16.12.2016 10:57:09,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11467,Admission Search using Patient birth date and Social security number,finished,16.12.2016 06:34:57,16.12.2016 06:38:15,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11473,Admission, Change Button Vorbestellung to Normalaufnahme,finished,16.12.2016 12:34:53,16.12.2016 12:39:58,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11475,Admission, Aufenthaltssuche,finished,16.12.2016 06:31:51,16.12.2016 06:34:45,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11476,Admission Patientensuche,finished,16.12.2016 06:41:33,16.12.2016 06:44:47,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11477,Admission, Patientensuche and Aufenthaltsuche hour glass,finished,16.12.2016 10:18:51,16.12.2016 10:21:06,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11478,Admission Aufenthaltssuche button, Falldaten ändern,finished,16.12.2016 06:38:27,16.12.2016 06:41:20,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+1148,Role change - DokumentBereich correctly laoded,finished,15.12.2016 19:43:07,15.12.2016 19:49:40,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11486,Add Insurance, max. 5 days in past,finished,16.12.2016 11:01:07,16.12.2016 11:04:50,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11487,Admission lock,failed,16.12.2016 07:03:13,16.12.2016 07:16:05,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11490,New Admission  Document Browser,finished,16.12.2016 07:16:17,16.12.2016 07:18:41,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11491,Modify in-patient case, save diagnosisprocedure,finished,16.12.2016 07:18:53,16.12.2016 07:21:00,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11492,Show case by Ward search - SAP Terminbelegung anzeigen,finished,16.12.2016 12:29:11,16.12.2016 12:33:05,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11499,NotValidatedDocuments,finished,16.12.2016 05:52:16,16.12.2016 05:56:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11502,Validate a document with an validationsText placeholder,finished,16.12.2016 00:41:07,16.12.2016 00:43:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11503,Discharge patient from ward and make a transfer afterwards,finished,15.12.2016 23:48:12,15.12.2016 23:49:56,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11515,Print an order on a standard printer (2 print templates associated  compulsory is set false),finished,16.12.2016 11:34:24,16.12.2016 11:37:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11525,Free diagnoses, default value (expression) - insert procedures,finished,16.12.2016 00:40:51,16.12.2016 00:43:41,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11533,Delete Surgery Session (multiUser),finished,15.12.2016 22:57:26,15.12.2016 23:05:51,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+1154,User login - DWC - general mechanism,finished,15.12.2016 17:41:48,15.12.2016 17:42:59,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+1155,Role change - Order and OrderProfile correctly loaded,finished,15.12.2016 19:55:19,15.12.2016 20:01:25,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+1157,Patientenidentifikation - Test case 4,finished,16.12.2016 11:51:57,16.12.2016 11:53:52,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11570,Delete symbol to case,finished,15.12.2016 22:34:16,15.12.2016 22:35:15,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11572,Delete a bed location symbol,finished,15.12.2016 22:38:24,15.12.2016 22:39:25,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11579,Open the workarea Order via pop-up menu,finished,15.12.2016 22:19:25,15.12.2016 22:21:03,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11580,Open the workarea Patient document via pop-up menu,finished,15.12.2016 22:17:38,15.12.2016 22:19:21,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11581,Open the workarea Appointment calendar via pop-up menu,finished,15.12.2016 22:21:07,15.12.2016 22:22:39,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11583,Show all cases of a patient via pop-up menu,finished,15.12.2016 22:29:33,15.12.2016 22:30:41,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11585,Discharge a new admitted patient (Entlassungsart Sterbefall),finished,15.12.2016 23:50:00,15.12.2016 23:51:56,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11587,Save PGBA_BARTHEL data in the Application,finished,15.12.2016 17:50:56,15.12.2016 17:58:50,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11588,Print PGBA_BARTHEL data,finished,15.12.2016 18:04:15,15.12.2016 18:07:40,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11590,Filter PGBA_BARTHEL table,finished,15.12.2016 18:07:50,15.12.2016 18:15:43,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11591,Set PGBA_BARTHEL data to invalid,finished,15.12.2016 17:59:04,15.12.2016 18:04:03,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11594,Open the workarea Meal ordering via pop-menu,finished,15.12.2016 22:22:44,15.12.2016 22:24:10,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11597,Print work organizerst via pop-up menu,finished,15.12.2016 22:30:45,15.12.2016 22:31:53,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11606,Open the workarea DRG workplace via pop-up menu,finished,15.12.2016 22:24:16,15.12.2016 22:25:59,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11621,Open the workarea Start workflow via pop-up menu,finished,15.12.2016 22:26:03,15.12.2016 22:27:41,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11622,Open the workarea Patient data via pop-up menu,finished,15.12.2016 22:27:46,15.12.2016 22:29:28,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11623,Show procedures via pop-up menu,finished,15.12.2016 22:31:58,15.12.2016 22:33:06,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11624,Remove an occupied mobile bed,finished,15.12.2016 21:29:50,15.12.2016 21:30:53,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11632,Save PGBA_MNA data in the Application,finished,15.12.2016 18:18:37,15.12.2016 18:28:25,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11640,Save PGBA_VAS data in the Application,finished,15.12.2016 18:46:17,15.12.2016 18:52:39,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11653,Set PGBA_MNA data to invalid,finished,15.12.2016 18:28:38,15.12.2016 18:33:29,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11654,Print PGBA_MNA data,finished,15.12.2016 18:33:42,15.12.2016 18:37:05,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11655,Filter PGBA_MNA table,finished,15.12.2016 18:37:19,15.12.2016 18:46:06,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11685,Set PGBA_VAS data to invalid,finished,15.12.2016 18:52:51,15.12.2016 18:57:04,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11686,Print PGBA_VAS data,finished,15.12.2016 18:57:15,15.12.2016 19:00:06,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11687,Filter PGBA_VAS table,finished,15.12.2016 19:00:17,15.12.2016 19:06:31,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11711,Select a patient on the ward treebrowser,finished,15.12.2016 21:04:18,15.12.2016 21:06:20,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11716,Check if the ward data is correct,finished,15.12.2016 17:23:15,15.12.2016 17:25:12,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11719,Update of case symbols,finished,15.12.2016 17:31:08,15.12.2016 17:34:07,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11720,Update of patient symbols,finished,15.12.2016 17:34:18,15.12.2016 17:36:15,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11721,Update of patient notes,finished,15.12.2016 17:36:23,15.12.2016 17:38:27,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11722,Insert a mobile bed,finished,15.12.2016 17:27:51,15.12.2016 17:30:58,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11725,Search for a room for a woman,finished,15.12.2016 17:09:02,15.12.2016 17:10:22,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11727,Search for a room for a male patient,finished,15.12.2016 17:15:33,15.12.2016 17:16:32,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11728,Search for a room for a patient depending on the age,finished,15.12.2016 17:10:39,15.12.2016 17:13:13,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11729,Check if the room status symbols are correct,finished,15.12.2016 17:25:21,15.12.2016 17:27:40,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11730,Search for women,finished,15.12.2016 17:17:49,15.12.2016 17:18:51,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11731,Search for men,finished,15.12.2016 17:19:00,15.12.2016 17:19:59,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11732,Search for first class patients,finished,15.12.2016 17:13:23,15.12.2016 17:14:21,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11733,Search for second class patients,finished,15.12.2016 17:20:08,15.12.2016 17:21:04,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11734,Search for locked beds,finished,15.12.2016 17:21:13,15.12.2016 17:22:05,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11735,Search for reserved beds,finished,15.12.2016 17:14:30,15.12.2016 17:15:24,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11736,Update of patient data,finished,15.12.2016 17:38:39,15.12.2016 17:41:40,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11737,Permission to view one speciality,finished,15.12.2016 17:41:50,15.12.2016 17:43:26,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+1174,In-patient new admission co-insured different Rechnungsempfänger,finished,16.12.2016 11:18:06,16.12.2016 11:27:32,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11746,Create a goal,finished,15.12.2016 19:34:19,15.12.2016 19:36:12,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11759,Search for a room for a first class patient,finished,15.12.2016 17:16:41,15.12.2016 17:17:39,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11763,Delete dictation manually - mark dictation for delete (document without a dictationcontent),finished,15.12.2016 18:02:47,15.12.2016 18:05:24,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11764,Delete dictation manually - mark dictation for delete (document with a dictationcontent and a wordcontent),finished,15.12.2016 17:43:00,15.12.2016 17:47:39,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11765,Delete dictation manually - mark dictation for delete (document with only a dictationcontent),finished,15.12.2016 17:47:45,15.12.2016 17:51:00,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11775,Open dictation - 'checktodelete',failed,15.12.2016 18:05:29,15.12.2016 18:09:24,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+1178,Activate additional insurance suggest from previous case,finished,16.12.2016 10:40:48,16.12.2016 10:46:39,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11781,Plan an appointment useOptionForPlanningDialog=False,finished,15.12.2016 17:50:36,15.12.2016 17:51:54,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11784,Plan multiple appointments via template,finished,15.12.2016 17:51:58,15.12.2016 17:53:23,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11801,Create AVBs for a SurgerySession,finished,16.12.2016 00:28:25,16.12.2016 00:33:43,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11803,Print order within WFL without dialog,finished,16.12.2016 11:29:03,16.12.2016 11:32:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11805,Position String Entry limitation,finished,16.12.2016 06:51:20,16.12.2016 06:53:08,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11808,Search for a room for a second class patient,finished,15.12.2016 17:22:13,15.12.2016 17:23:07,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11809,WaitingList show planned  geplante anzeigen,finished,15.12.2016 22:14:04,15.12.2016 22:15:28,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11812,Reset filter (resetFilterOnWardChange is true),finished,15.12.2016 17:43:34,15.12.2016 17:45:41,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11813,Reset filter (resetFilterOnWardChange is false),finished,15.12.2016 17:45:51,15.12.2016 17:47:56,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11819,Discharge patient without discharge type,finished,16.12.2016 12:44:31,16.12.2016 12:46:19,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11820,Discharge patient,finished,16.12.2016 12:46:28,16.12.2016 12:47:36,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11821,Discharge patient - Cancel,finished,16.12.2016 12:47:45,16.12.2016 12:48:52,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11822,Discharge patient in case of Death without data of Death,finished,16.12.2016 12:49:01,16.12.2016 12:50:04,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11824,Discharge patient in case of Death,finished,16.12.2016 12:50:14,16.12.2016 12:52:02,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11827,Transfer without 'Weiterbehandelnde Institution',finished,16.12.2016 12:52:12,16.12.2016 12:53:13,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11828,Transfer,finished,16.12.2016 12:53:23,16.12.2016 12:55:22,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11832,Discharge companions in case of death,finished,16.12.2016 13:25:45,16.12.2016 13:40:44,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11838,Discharge newborns,finished,16.12.2016 13:40:58,16.12.2016 13:53:58,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11839,Discharge newborns in case of death,finished,16.12.2016 13:54:17,16.12.2016 14:08:38,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+11870,Create a new 'OrderType',finished,16.12.2016 06:12:04,16.12.2016 06:13:22,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11871,Create a new order position boolean,finished,16.12.2016 06:13:26,16.12.2016 06:13:49,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11872,Add a procedure to an order position,finished,16.12.2016 06:14:53,16.12.2016 06:17:13,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11873,Create a new GUI formular,finished,16.12.2016 06:17:19,16.12.2016 06:22:22,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11874,Edit of data in the procedures table,finished,16.12.2016 10:46:22,16.12.2016 10:48:28,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11875,Record procedures with only one order form,finished,16.12.2016 10:22:21,16.12.2016 10:24:33,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11876,Record procedures with more than one order form,finished,16.12.2016 10:17:36,16.12.2016 10:22:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11877,Choosing procedures from order form,finished,16.12.2016 10:26:15,16.12.2016 10:28:22,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11878,Changing employee in table,finished,16.12.2016 10:48:34,16.12.2016 10:49:59,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11879,Change UserEmployee,finished,16.12.2016 10:50:07,16.12.2016 10:54:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11880,Cancel changing user in order form,finished,16.12.2016 10:28:26,16.12.2016 10:29:38,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11883,Positions defaultvalue is true,finished,16.12.2016 10:35:22,16.12.2016 10:36:29,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11884,Postionvalue visible is false,finished,16.12.2016 10:36:33,16.12.2016 10:37:44,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11885,Orderposition default amount,finished,16.12.2016 10:37:48,16.12.2016 10:39:00,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11886,Orderposition with 2 procedures,finished,16.12.2016 10:39:05,16.12.2016 10:40:21,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11887,Procedures after discharge date,finished,16.12.2016 10:29:42,16.12.2016 10:30:46,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11889,Procedures in future,finished,16.12.2016 10:30:51,16.12.2016 10:31:57,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11890,Orderposition with MEL  Check sex (female procedure),finished,16.12.2016 10:40:26,16.12.2016 10:41:51,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11895,Button 'Leistungsinfo' in order-form,finished,16.12.2016 10:32:02,16.12.2016 10:35:17,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11896,Create movement inpatient case,finished,16.12.2016 10:56:12,16.12.2016 10:59:26,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11904,Create movement ambulatory case other OE,finished,16.12.2016 10:59:31,16.12.2016 11:04:42,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11905,Create movement ambulatory case same OE,finished,16.12.2016 11:04:47,16.12.2016 11:09:57,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11907,Display procedures,finished,16.12.2016 10:54:12,16.12.2016 10:56:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11908,Create visits NLEI_CreateAmbMovement=false,finished,16.12.2016 11:10:01,16.12.2016 11:15:07,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11933,Display procedures,finished,16.12.2016 10:24:38,16.12.2016 10:26:10,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11949,Orderposition with MEL  Check sex (male procedure),finished,16.12.2016 10:41:56,16.12.2016 10:43:24,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11950,Orderposition with MEL  Check age,finished,16.12.2016 10:43:29,16.12.2016 10:46:18,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11951,Distribute an existing Word document (Filter doctors by ID),finished,15.12.2016 20:19:24,15.12.2016 20:21:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11952,Forward or backward with manual saving in order form,finished,16.12.2016 12:11:23,16.12.2016 12:13:09,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+11958,Customize popup menu without  permission,finished,15.12.2016 20:23:27,15.12.2016 20:25:43,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+11960,Manual Aneshesia Documentation  - adding anesthesia data and verifying in AWR,finished,16.12.2016 00:33:55,16.12.2016 00:40:31,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+11988,Cooking recipe,finished,16.12.2016 05:47:46,16.12.2016 05:52:02,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12002,Delete Surgery Session - having no privilege,finished,15.12.2016 23:06:01,15.12.2016 23:11:15,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12008,Change default language,finished,15.12.2016 21:34:38,15.12.2016 21:36:01,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12043,OWC - Startstop journaling,finished,16.12.2016 04:21:00,16.12.2016 04:23:07,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+1208,Single process - two todos as task,finished,16.12.2016 03:48:21,16.12.2016 03:51:08,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+1209,Option dialog - comment + note text (without script),finished,16.12.2016 02:25:43,16.12.2016 02:28:06,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+121,Todo list - state icons (process program),finished,16.12.2016 02:54:03,16.12.2016 02:56:20,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12124,Plan an appointment (process with order, use option dialog),finished,15.12.2016 17:27:17,15.12.2016 17:28:17,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12127,Plan an appointment (process with order, use current case),finished,15.12.2016 17:28:22,15.12.2016 17:29:28,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+1213,2 clients edit the same document (the same time),finished,15.12.2016 20:02:07,15.12.2016 20:07:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12144,Plan an appointment in a not available area of the calendar (use option dialog),finished,15.12.2016 17:23:42,15.12.2016 17:24:57,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12148,Change appointment detail Namename by popup menu (for an appointment with patient andor process),finished,15.12.2016 18:31:51,15.12.2016 18:33:35,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12209,Protocolation of action Dokument.open on documents,finished,15.12.2016 22:22:01,15.12.2016 22:25:17,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12210,Protocolation of action Dokument.editContent and Dokument.update on documents,finished,15.12.2016 22:25:23,15.12.2016 22:27:37,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12215,Protocolation of action Dokument.viewInhalt on documents,finished,15.12.2016 22:27:42,15.12.2016 22:30:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12229,Protocolation of action KlinischesDokument.newObject and KlinischesDokument.save,failed,16.12.2016 02:28:47,16.12.2016 02:32:51,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12240,SurgeryCOSAna editing and saving this COS object,finished,16.12.2016 00:21:19,16.12.2016 00:28:14,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12261,Distribute document via WFL-printing (TodoListClient) and client's default-printer with SIMPLE-validation,finished,15.12.2016 21:55:38,15.12.2016 21:59:32,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12263,Distribute document via standard-printing (on client) and client's default-printer with SIMPLE-validation,finished,15.12.2016 21:47:13,15.12.2016 21:51:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12288,Document a new Wound, use case question, exactly one ex. wound - new images,finished,16.12.2016 11:19:15,16.12.2016 11:23:08,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12297,Role change - exactly 1 role available,finished,15.12.2016 19:15:18,15.12.2016 19:18:10,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12304,Image-Doc Mask Editor - Zoom Features,finished,16.12.2016 12:16:23,16.12.2016 12:19:13,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12314,Customizing OP PersonalStaff Type DefaultStaff,finished,16.12.2016 01:28:38,16.12.2016 01:34:02,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12316,WoundManagement cancel saving operation,finished,16.12.2016 06:54:16,16.12.2016 06:58:34,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12318,Double-Click on search result must open WoundManagementWorkArea,finished,16.12.2016 12:38:20,16.12.2016 12:40:29,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12320,Save modified wound data,finished,16.12.2016 07:10:33,16.12.2016 07:15:36,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12327,Multiple positions in order summary,finished,16.12.2016 07:48:31,16.12.2016 07:49:49,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12328,Multiple positions in order summary (different separator),finished,16.12.2016 07:49:54,16.12.2016 07:54:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12329,Multiple positions in order summary (different divider),finished,16.12.2016 07:54:21,16.12.2016 07:59:17,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12330,Save changes in old textblock when creating a new one,failed,16.12.2016 02:52:31,16.12.2016 02:56:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12334,Create a note for a wound and for a wound state,finished,16.12.2016 06:25:40,16.12.2016 06:31:05,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12336,Document a new Wound with very long note text,finished,16.12.2016 11:00:30,16.12.2016 11:04:05,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12344,Document surgery OP-Staff - add OP Staff,finished,15.12.2016 23:29:58,15.12.2016 23:33:49,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12346,Document surgery OP - set successor,finished,15.12.2016 23:34:01,15.12.2016 23:39:38,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12357,Additional notes for SurgeryOPSurgerySession - edit additional note,finished,15.12.2016 23:46:45,15.12.2016 23:52:05,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12375,WA Menuordering - multiSelection,finished,16.12.2016 04:03:57,16.12.2016 04:11:26,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12393,Medical organizational unit check - outpatient,finished,16.12.2016 06:56:08,16.12.2016 06:59:04,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12394,Medical organizational unit check - inpatient,finished,16.12.2016 06:54:04,16.12.2016 06:55:57,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12409,Create validation-document-activity,finished,15.12.2016 23:54:17,15.12.2016 23:56:31,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12410,Create dictation-document-activity,finished,15.12.2016 23:52:02,15.12.2016 23:54:12,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12411,Create dictation- and validation-document-activity (enter dictation physician via entrer),finished,15.12.2016 23:49:24,15.12.2016 23:51:56,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12413,Add dictation-activity to existing document,finished,15.12.2016 23:42:18,15.12.2016 23:45:56,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12415,Validate document via SIMPLE validation,finished,15.12.2016 23:38:59,15.12.2016 23:42:12,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12416,Add two validation entries to document via WFL validation,finished,15.12.2016 23:46:02,15.12.2016 23:49:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12420,Open a CDR workArea,finished,15.12.2016 22:15:03,15.12.2016 22:17:33,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12422,Drag&Drop simple appointments with time to a time dependent area,finished,15.12.2016 19:12:50,15.12.2016 19:14:55,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12438,Cut&Paste simple appointments with time to a time dependent area,finished,15.12.2016 19:07:30,15.12.2016 19:09:23,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12468,Check update of case record within WorkflowAnforderungBrowser,finished,16.12.2016 11:37:22,16.12.2016 11:40:31,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12469,Check update of case record within WorkflowAnforderung,finished,16.12.2016 11:58:37,16.12.2016 12:00:42,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12485,Switch between WA OP Dokumentation and WA AWR,finished,15.12.2016 23:11:26,15.12.2016 23:17:26,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12488,Orderstate is versendet after document creation,finished,16.12.2016 12:06:24,16.12.2016 12:08:49,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12489,Orderstate is readonly after document creation,finished,16.12.2016 11:53:30,16.12.2016 11:57:12,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12494,Plan a time independent note with a double click,finished,15.12.2016 19:36:17,15.12.2016 19:37:01,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12502,Print a KIS document with mpa (MS Word) template,finished,15.12.2016 20:49:08,15.12.2016 20:53:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12503,Print archived document with adobe,finished,15.12.2016 20:53:11,15.12.2016 20:56:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12532,Distribute document via WFL-printing (TodoListClient) and client's default-printer with SIMPLE-validation (Word won't be shown at printing),finished,15.12.2016 22:04:35,15.12.2016 22:08:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12533,Distribute document via WFL-printing (TodoListClient) and client's default-printer with SIMPLE-validation (Word shown at printing),finished,15.12.2016 21:59:37,15.12.2016 22:04:29,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12534,WoundDocuments save new document,finished,16.12.2016 12:43:44,16.12.2016 12:47:40,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12537,Edit Textbaustein from clinical document,failed,16.12.2016 03:25:00,16.12.2016 03:25:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12539,Dialog after drawing a wound,finished,16.12.2016 13:59:02,16.12.2016 14:02:34,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12540,Current date in calendar popup,finished,16.12.2016 06:31:15,16.12.2016 06:33:47,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12548,Add a new block - two buttons for the same block,failed,16.12.2016 01:33:59,16.12.2016 01:37:40,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12552,Image-Doc Mask Editor - Key behaviour of drawing tools,finished,16.12.2016 12:11:32,16.12.2016 12:16:12,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12569,WoundManagement in Workflow - Document new Wounds,finished,16.12.2016 13:05:34,16.12.2016 13:11:36,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12574,Associate a department to a document group (ASSOC DokumentBereichAbteilung),finished,15.12.2016 17:23:29,15.12.2016 17:26:05,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12575,Associate a document template to a document type (ASSOC DokumentBereichDokumentTypVorlage),finished,15.12.2016 17:26:10,15.12.2016 17:29:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12576,Associate a text block to a 'Platzhalter' (ASSOC UserRollePlatzhalterTextbaustein),finished,15.12.2016 17:32:04,15.12.2016 17:33:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12577,Associate a document subject for restriction (ASSOC DokumentBereichDokumentTypUserRolleBetreff),finished,15.12.2016 17:29:39,15.12.2016 17:31:58,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12578,Journal a new Customizing for Documents,finished,16.12.2016 01:33:34,16.12.2016 01:56:46,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12579,Add a placeholder to a template,finished,15.12.2016 17:16:41,15.12.2016 17:19:12,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12580,Change an existing text module,finished,15.12.2016 17:07:17,15.12.2016 17:08:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12583,Install a new Customizing for Documents,finished,16.12.2016 14:58:33,16.12.2016 15:19:59,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12588,Default values at creating new woundwoundstage,finished,16.12.2016 10:55:51,16.12.2016 11:00:19,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12611,Save modified wound data in a Workflow,finished,16.12.2016 13:15:27,16.12.2016 13:21:57,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12639,Call Woundmanagement via Bedmanagement,finished,16.12.2016 06:43:15,16.12.2016 06:50:28,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12640,Specify dietary regulation addendum,finished,16.12.2016 05:38:45,16.12.2016 05:47:34,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12658,Cut and paste of Word-document links within clinical document (append at current block),failed,16.12.2016 02:48:35,16.12.2016 02:52:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12682,Refresh of modified wound documents,finished,16.12.2016 07:08:08,16.12.2016 07:10:22,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12686,Insert a placeholder into a text module,finished,15.12.2016 17:20:56,15.12.2016 17:23:21,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12688,Setup of default font of RTFEditor within clinical document (with role change),failed,16.12.2016 02:59:15,16.12.2016 03:03:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12690,Reopen Woundmanagement via WoundSearch (having Image-Doc tab opened),finished,16.12.2016 12:34:38,16.12.2016 12:37:05,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12691,Edit an order and quit without saving,finished,16.12.2016 07:22:51,16.12.2016 07:24:44,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12698,Printing of clinical comments with Daytime-Prio sort-order,failed,16.12.2016 03:17:02,16.12.2016 03:20:50,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12699,Printing of clinical comments with Prio-Daytime sort-order,failed,16.12.2016 03:13:10,16.12.2016 03:16:56,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12725,Delete from process program - confirmation dialog,finished,16.12.2016 05:37:43,16.12.2016 05:40:00,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12731,Kapitel Browser and procedures - after 1.1.2009,finished,16.12.2016 01:47:34,16.12.2016 01:49:49,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12755,General Browser Functionality 2,finished,15.12.2016 23:37:26,15.12.2016 23:39:36,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12761,Diagnoses Editor Button Übernehmen,finished,15.12.2016 23:19:06,15.12.2016 23:21:18,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12763,Diagnoses Editor Button Löschen,finished,15.12.2016 23:16:50,15.12.2016 23:18:58,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12773,Search Diagnosis with Synonyme  SAP AT  GESPAG,finished,15.12.2016 23:48:46,15.12.2016 23:51:59,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12779,Process filled with patient data (AZ,patient name) for process started from appointment calendar (by double-click),finished,15.12.2016 19:45:11,15.12.2016 19:47:05,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12787,PatientBrowser open WA Menu ordering for a case selected in PatientBrowser,finished,16.12.2016 02:53:58,16.12.2016 02:56:10,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12790,Image Import - File system,finished,16.12.2016 07:49:11,16.12.2016 07:51:49,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12791,Do distribution via edifact,finished,15.12.2016 21:51:31,15.12.2016 21:55:32,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12793,Procedures belonging to diagnoses,finished,16.12.2016 01:20:26,16.12.2016 01:26:14,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12795,Diagnosen zu codierten MEL's,finished,15.12.2016 23:30:53,15.12.2016 23:32:04,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12797,Diet  Diät with History,finished,16.12.2016 04:20:00,16.12.2016 04:28:44,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12798,Disable-state of action deleteDictation for document having dictationcontent but userrole not having right for editing document,finished,15.12.2016 17:58:19,15.12.2016 18:02:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12800,Disable-state of action deleteDictationContent for document having dictationcontent but userrole not having right for editing document,failed,15.12.2016 17:54:23,15.12.2016 17:58:12,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12802,Journal a new Customizing for a ward (SAP),finished,16.12.2016 02:45:57,16.12.2016 03:08:36,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12805,Install a new customizing for a ward,finished,16.12.2016 15:43:24,16.12.2016 16:03:18,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12810,Dictate is shown as invalid in DocumentBrowser,failed,15.12.2016 17:51:05,15.12.2016 17:54:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12829,Customized entries from DocumentVerteiler,finished,15.12.2016 21:38:02,15.12.2016 21:40:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12855,Journal base customizing for workflow,finished,16.12.2016 04:59:10,16.12.2016 05:27:57,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12858,Edit an existing Word-document with size-limitation (close with speichern&schließen (save and close)),finished,15.12.2016 19:44:10,15.12.2016 19:49:36,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12859,Edit an existing Word-document with size-limitation(close with Speichern, Schließen und Verteilen),finished,15.12.2016 19:49:42,15.12.2016 19:54:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12860,Edit an existing Word-document with size-limitation(close with Speichern, Schließen und Weiterleiten),finished,15.12.2016 19:54:12,15.12.2016 19:58:36,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12878,Close word-instances if the viewer were closed(closeWordInstancesOnViewerClose = false),finished,15.12.2016 20:07:25,15.12.2016 20:10:00,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12879,Close word-instances if the viewer were closed(closeWordInstancesOnViewerClose = true),finished,15.12.2016 19:58:41,15.12.2016 20:01:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12882,Journal a new appointment book customizing,finished,16.12.2016 03:16:18,16.12.2016 03:42:17,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12884,SpeechMike - Reopen of NewEditDictationWorkArea,finished,15.12.2016 23:22:17,15.12.2016 23:28:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12889,Context menu for checking existing MetaProcesses,finished,16.12.2016 00:49:32,16.12.2016 00:50:34,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12893,Starting Process with a self-created button from view Clinical document,failed,16.12.2016 01:41:35,16.12.2016 01:43:15,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12902,Printing of clinical comments with Day-Prio sort-order,failed,16.12.2016 03:09:19,16.12.2016 03:13:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12903,Printing of clinical comments with Prio-Day sort-order,failed,16.12.2016 03:05:25,16.12.2016 03:09:13,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12913,Commiting a WoundState,finished,16.12.2016 07:42:24,16.12.2016 07:49:02,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12914,Ambulatory new admission without previous cases - fullscreen Wizard,finished,16.12.2016 06:12:29,16.12.2016 06:25:52,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12915,In-patient new admission with previous cases - fullscreen Wizard,finished,16.12.2016 07:21:15,16.12.2016 07:28:19,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12918,Menu Additional food, suitable for diet,finished,16.12.2016 04:28:54,16.12.2016 04:32:33,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+12921,Commiting a Wound,finished,16.12.2016 07:01:36,16.12.2016 07:07:56,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12928,Create Medical Evidence for Wound (MS Word) - many document template customized,finished,16.12.2016 12:29:02,16.12.2016 12:33:19,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12930,Wound-Related Appointments,finished,16.12.2016 13:29:28,16.12.2016 13:32:36,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12932,Delete from process program - started and running entries,finished,16.12.2016 05:40:13,16.12.2016 05:45:57,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12933,Open multiple views simultaneously,finished,16.12.2016 01:28:49,16.12.2016 01:30:05,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12935,Document a new Wound (validation),finished,16.12.2016 10:24:40,16.12.2016 10:29:22,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12936,Import KAV Documents,finished,16.12.2016 14:00:01,16.12.2016 14:06:43,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12938,SER - BatchScanImportImportService (bluelineversion DOXIS4),finished,16.12.2016 07:33:13,16.12.2016 07:40:04,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12940,Save new document into SER-storage (bluelineversion DOXIS4),finished,16.12.2016 07:15:48,16.12.2016 07:20:59,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12941,Printing of PDF-document imported into SER-storage (bluelineversion DOXIS4),finished,16.12.2016 07:42:37,16.12.2016 07:45:29,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12944,Printing of JPG-document imported into SER-storage (bluelineversion DOXIS4),finished,16.12.2016 07:45:35,16.12.2016 07:48:10,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12945,Add structElement to document (UpdateTool),finished,15.12.2016 21:43:57,15.12.2016 21:47:08,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12970,BodyPartLocalisation changing localization of wound,finished,16.12.2016 14:15:42,16.12.2016 14:19:03,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12983,Templates for Wound Documentation Standard (CDR),finished,16.12.2016 12:55:11,16.12.2016 13:00:22,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+12987,Merge bundles automatically - no GUI,finished,16.12.2016 04:17:23,16.12.2016 04:18:54,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+12996,Open dictation - 'todelete',failed,15.12.2016 18:09:30,15.12.2016 18:13:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+12997,WoundImage horizontal line (LWMeasurementTool),finished,16.12.2016 14:06:06,16.12.2016 14:08:53,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13017,WoundManagement open WM with stay, having no wound,finished,16.12.2016 06:22:00,16.12.2016 06:25:29,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13020,WoundOverviewWorkArea no loss of data when saving WA,finished,16.12.2016 07:52:11,16.12.2016 08:14:03,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13026,Versions - activate inconsistent draft version (NEW Checks),finished,16.12.2016 00:43:20,16.12.2016 00:45:00,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13036,WoundImage Automatic Length  Width detection with shapes where bounding box overlaps,finished,16.12.2016 14:02:45,16.12.2016 14:05:56,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13041,Document-priniting from a client (Standarddrucker),finished,15.12.2016 22:09:00,15.12.2016 22:13:47,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13049,In-patient new admission with an open in-patient case,finished,16.12.2016 07:28:31,16.12.2016 07:30:10,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13050,Ambulatory new admission with an open in-patient case,finished,16.12.2016 07:30:21,16.12.2016 07:33:19,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13060,Document-printing from a client (Zentraldrucker),finished,15.12.2016 22:13:53,15.12.2016 22:18:48,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13063,Newly created WORD document from clinical document is opened with a default action,failed,16.12.2016 02:40:46,16.12.2016 02:44:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13064,KrankenGeschichte exportieren (exportAllObjects = True),finished,16.12.2016 14:10:57,16.12.2016 14:12:39,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13070,Expressionfunction CREATEDOCFORCASE 22 (5 Parameter) - showDokument=true,finished,15.12.2016 22:42:07,15.12.2016 22:45:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13071,Validate a document with unterstuetzteFunktionalitaet=1,finished,16.12.2016 00:38:12,16.12.2016 00:41:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13093,WoundManagement reopen with stay having no wound,finished,16.12.2016 06:36:49,16.12.2016 06:41:01,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13094,BodyPartLocalisation selection of bodyparts,finished,16.12.2016 06:58:45,16.12.2016 07:01:27,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13095,Aktualisierung von Dokumenten im SER-Archiv (no RDY File),finished,16.12.2016 07:48:16,16.12.2016 08:00:13,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13097,WoundManagement body part reasignment (tablebrowser selection),finished,16.12.2016 06:33:57,16.12.2016 06:36:39,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13098,KrankenGeschichte exportieren (Datumsinfo in Dateinamen),finished,16.12.2016 14:12:48,16.12.2016 14:14:33,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13102,Plan, move and delete a simple appointment in an external appointment book (externes TerminBuch),finished,15.12.2016 19:37:07,15.12.2016 19:39:45,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13109,Behaviour of several actions after an update of the maxTransformationId,finished,15.12.2016 20:10:06,15.12.2016 20:16:47,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13118,WoundManagement userrole change,finished,16.12.2016 06:41:13,16.12.2016 06:43:04,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13120,Validate a document (with WorkflowDokumentValidation and WorkflowDokumentValidationCFT),finished,16.12.2016 00:46:51,16.12.2016 00:50:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13129,WoundImage file not found (big image listed correctly, thumbnail not found),finished,16.12.2016 11:58:00,16.12.2016 12:02:40,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13134,Change appointment duration,finished,15.12.2016 18:38:39,15.12.2016 18:40:44,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13147,Select the tab Diagnose within document-browser,finished,15.12.2016 21:30:52,15.12.2016 21:32:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13153,Start Workflow - external system process,finished,16.12.2016 02:44:09,16.12.2016 02:46:21,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13160,Install base Customizing for Workflow,finished,16.12.2016 16:45:54,16.12.2016 17:08:39,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13164,Plan an appointment in the patient calendar,finished,15.12.2016 17:29:33,15.12.2016 17:31:45,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13180,WoundDocuments save RLS document as template,finished,16.12.2016 12:51:36,16.12.2016 12:54:56,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13207,Install a new appointmentbook customizing,finished,16.12.2016 16:03:28,16.12.2016 16:24:21,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13208,Case-related note and symbol,finished,15.12.2016 22:39:30,15.12.2016 22:43:57,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13213,Report execution for sorted objects from TreeBrowser,finished,16.12.2016 15:44:09,16.12.2016 15:45:51,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13214,Report execution for sorted objects from TableBrowser,finished,16.12.2016 15:42:05,16.12.2016 15:43:59,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13228,Image set invalid,finished,16.12.2016 07:30:11,16.12.2016 07:33:55,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13229,Image set valid,finished,16.12.2016 07:34:05,16.12.2016 07:36:53,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13234,Image set invalid via context menu,finished,16.12.2016 07:37:03,16.12.2016 07:39:28,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13239,Delete the process of an appointment that was extended to a ProzessProgramm (=rel_3.11),finished,15.12.2016 18:14:05,15.12.2016 18:17:52,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13246,User login - default user by SessionProperties in Repository,finished,15.12.2016 18:07:26,15.12.2016 18:09:14,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13247,Role change - available startable meta processes,finished,15.12.2016 19:33:10,15.12.2016 19:37:20,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13248,User change - security restrictions when accessing wards,finished,15.12.2016 19:01:12,15.12.2016 19:07:00,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13249,Role change - security restrictions when reading documents,finished,15.12.2016 19:21:51,15.12.2016 19:27:17,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13250,User change - cancel user dialog,finished,15.12.2016 18:28:29,15.12.2016 18:37:00,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13251,User change - window handling (only DefaultWorkingCenter open) - cancel user dialog,finished,15.12.2016 20:29:55,15.12.2016 20:38:11,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13252,User change - handling of unsaved data (multiple WorkingCenters open) - close 'user change' dialog,finished,15.12.2016 20:57:45,15.12.2016 21:26:44,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13253,Role change - cancel role dialog,finished,15.12.2016 19:18:20,15.12.2016 19:21:41,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13255,Role change - all roles available (parameter -allowAnyRole),finished,15.12.2016 19:37:29,15.12.2016 19:42:57,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13256,Role login - exactly 1 role available,finished,15.12.2016 18:10:43,15.12.2016 18:13:09,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13258,Role login - all roles available (parameter -allowAnyRole),finished,15.12.2016 18:13:18,15.12.2016 18:16:18,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13261,Delete the process of an appointment that was extended to a ProzessProgramm B (rel_3.11 +),finished,15.12.2016 18:17:59,15.12.2016 18:21:18,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13262,WoundSearch UserRoleChange,finished,16.12.2016 12:40:43,16.12.2016 12:43:32,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13278,Login with user, role, orgUnit & jobgroup,finished,15.12.2016 20:01:33,15.12.2016 20:08:43,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13279,Login with user, role, orgUnit & jobGroup - default selection,finished,15.12.2016 20:11:35,15.12.2016 20:15:52,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13280,Login with user, role, orgUnit & jobgroup - when application is NOT DefaultWorkbench,finished,15.12.2016 20:08:49,15.12.2016 20:11:25,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13281,Change role, orgUnit & jobgroup,started,15.12.2016 20:16:01,15.12.2016 20:16:03,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13282,Role login - DWC - role specified by MPA parameter -role,finished,15.12.2016 17:57:15,15.12.2016 18:00:27,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13291,Menu order for a ward with meal abstinence,finished,16.12.2016 05:13:37,16.12.2016 05:32:23,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13302,Open documents from (order header in) process wizard,finished,15.12.2016 21:27:53,15.12.2016 21:30:47,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13325,Start multiple planned appointments (ProcessPlanning) manually,finished,15.12.2016 19:47:10,15.12.2016 19:49:37,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13354,Image Filtering of validinvalid wounds,finished,16.12.2016 07:39:37,16.12.2016 07:42:10,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13355,Action of popup-menu in case search (show order form for procedures),finished,15.12.2016 20:21:19,15.12.2016 20:22:24,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13356,Action of popup-menu in case search (show appointments overview),finished,15.12.2016 20:22:27,15.12.2016 20:23:22,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13361,WoundImage Deletion of depth-measurement,finished,16.12.2016 14:09:04,16.12.2016 14:12:21,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13372,MasterDataObjectUsageReport - customization + execution via popup-menu,finished,16.12.2016 15:46:02,16.12.2016 15:48:01,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13377,Copy an existing icon,finished,16.12.2016 01:26:43,16.12.2016 01:27:48,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13379,Edit an existing icon,finished,16.12.2016 01:27:53,16.12.2016 01:28:44,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13382,User change - window handling (only DefaultWorkingCenter open) - login same user,finished,15.12.2016 20:38:21,15.12.2016 20:41:43,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13383,User change - window handling (only DWC open) - login different user,finished,15.12.2016 18:37:10,15.12.2016 18:41:35,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13384,User change - window handling (multiple WorkingCenters open) - cancel user dialog,finished,15.12.2016 20:41:53,15.12.2016 20:53:31,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13385,User change - window handling (multiple WorkingCenters open) - login same user,finished,15.12.2016 20:53:42,15.12.2016 20:57:33,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13386,User change - window handling (multiple WCs open) - login different user,finished,15.12.2016 18:41:45,15.12.2016 18:46:36,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13387,User change - handling of unsaved data (multiple WorkingCenters open) - login same user,finished,15.12.2016 21:26:55,15.12.2016 21:34:27,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13388,User change - handling of unsaved data (multiple WCs open) - login different user,finished,15.12.2016 18:46:47,15.12.2016 18:55:24,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13389,Create a new OrderPositionValue,finished,16.12.2016 06:27:07,16.12.2016 06:27:36,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13390,Journal customizing for an order,finished,16.12.2016 02:10:33,16.12.2016 02:37:17,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13392,Assign an OrderPositionValue to an OrderType,finished,16.12.2016 06:27:41,16.12.2016 06:28:08,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13397,Create order print template,finished,16.12.2016 06:28:12,16.12.2016 06:30:34,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13401,Filter text blocks in clinical document with the textblockfilterdialog,failed,16.12.2016 01:51:47,16.12.2016 01:53:37,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13424,Mealplan - Datebrowser,finished,16.12.2016 02:56:22,16.12.2016 03:05:29,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13426,Report for Icons in Repository - execution + basic functionality,finished,16.12.2016 15:48:09,16.12.2016 15:50:10,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13448,Check and Message Menu ordering is completeincomplete,finished,16.12.2016 02:46:19,16.12.2016 02:49:47,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+13459,Todo list update - always (mode 0),finished,16.12.2016 03:07:17,16.12.2016 03:12:45,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13469,WoundImage Correct Calculation of cut-out shapes,finished,16.12.2016 12:02:49,16.12.2016 12:05:43,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13476,Viewedit of the origin clinical document as document within documentbrowser (for case already having clinical document),failed,16.12.2016 04:03:51,16.12.2016 04:07:36,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13477,QuickCheckIn Successful registration of appointment with patient ID,failed,15.12.2016 19:39:51,15.12.2016 19:42:32,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13516,Export appointment with reverse transmission (APP Ok),finished,15.12.2016 17:06:50,15.12.2016 17:31:28,HL7,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13552,Create textblockfilter for clinical document in the OWC,finished,16.12.2016 01:43:22,16.12.2016 01:47:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+13554,Start check - indicate previous process start,failed,16.12.2016 02:37:28,16.12.2016 02:40:44,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13577,Automatic priority at process (by metaprocess),finished,16.12.2016 06:04:04,16.12.2016 06:06:49,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13726,Start Workflow - start process to first task,finished,16.12.2016 02:16:54,16.12.2016 02:18:19,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13727,AnlegenÄndern von Rolle,finished,15.12.2016 20:19:21,15.12.2016 20:21:07,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13738,Create a new appointment calendar in OWC,finished,15.12.2016 17:06:05,15.12.2016 17:08:57,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13743,Deposit Process,finished,15.12.2016 18:33:40,15.12.2016 18:35:58,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13744,Copy&Paste appointments,finished,15.12.2016 19:09:29,15.12.2016 19:12:44,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+13747,Create symbol,finished,16.12.2016 06:00:06,16.12.2016 06:00:48,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13828,RolleTodoListe - single resource,finished,16.12.2016 06:07:00,16.12.2016 06:11:02,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13833,CDRCommentCreator - create new text block (existing clinical document),failed,16.12.2016 05:17:05,16.12.2016 05:20:42,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13839,WorkflowDokumentBrowser,finished,16.12.2016 05:09:58,16.12.2016 05:11:52,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13846,RolleTodoListe - ressource pool,finished,16.12.2016 06:11:12,16.12.2016 06:14:23,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+13958,View document informations - check tabs,finished,15.12.2016 21:04:15,15.12.2016 21:05:50,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14042,Viewedit of the origin clinical document as document within documentbrowser (for case having clinical document until now, newClinicalDocumentAction = stop),failed,16.12.2016 04:07:42,16.12.2016 04:11:29,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14043,Dialog after drawing a wound 2,finished,16.12.2016 11:55:50,16.12.2016 11:57:49,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14044,Viewedit of the origin clinical document as document within documentbrowser (for case having no clinical document until now, don't ask for new clinical document),failed,16.12.2016 04:22:30,16.12.2016 04:26:20,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14046,Filter text blocks in clinical document with textblockfilters which are defined in OWC,failed,16.12.2016 01:47:59,16.12.2016 01:49:51,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14047,Filter text blocks in clinical document with a default-textblockfilter,failed,16.12.2016 01:49:56,16.12.2016 01:51:41,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14049,Viewedit of the origin clinical document as document within documentbrowser (for patient with more than one case(all having a clinical document, clinical document for case),failed,16.12.2016 04:14:02,16.12.2016 04:17:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14050,Viewedit of the origin clinical document as document within documentbrowser (for patient with more than one case(all having a clinical document, clinical document for patient),failed,16.12.2016 04:26:26,16.12.2016 04:30:16,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14051,View of the origin clinical document as document within documentbrowser (no subject expression),finished,16.12.2016 04:11:34,16.12.2016 04:13:56,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14059,Message Menuordering not for tomorrow,finished,16.12.2016 03:26:37,16.12.2016 03:29:20,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14060,Menuordering only keine Bestellung is selected,finished,16.12.2016 03:05:38,16.12.2016 03:10:55,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14061,Alter admission type from inpatient to outpatient,failed,16.12.2016 11:50:20,16.12.2016 11:51:44,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14063,Alter admission type from outpatient to inpatient,finished,16.12.2016 11:43:31,16.12.2016 11:50:06,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14066,Property filterDiät  filterDiet,finished,16.12.2016 03:29:33,16.12.2016 03:46:20,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14071,Install customizing for an Order,finished,16.12.2016 15:20:13,16.12.2016 15:43:14,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14079,DateBrowser actual date visible,finished,16.12.2016 04:32:42,16.12.2016 04:34:15,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14085,Property filterDiät  filterDiet + Message when selection does not fit,finished,16.12.2016 03:46:31,16.12.2016 03:54:06,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14126,View of the origin clinical document as document within documentbrowser (with subject expression),finished,16.12.2016 04:01:23,16.12.2016 04:03:45,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14128,Image Import - Automatic Downsizing (FileImport),finished,16.12.2016 10:35:58,16.12.2016 10:39:19,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14131,Image Export - ImageBrowserWorkArea,finished,16.12.2016 10:29:33,16.12.2016 10:32:42,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14137,Image Export - File already exists,finished,16.12.2016 10:32:54,16.12.2016 10:35:45,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14147,Extend process program + change order,finished,16.12.2016 04:15:07,16.12.2016 04:18:31,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14242,Automated checks at Patient Discharge,finished,16.12.2016 13:22:08,16.12.2016 13:29:15,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14270,Export Project with PluginID PGBA,finished,16.12.2016 06:12:36,16.12.2016 07:11:14,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14276,Expressionfunction CREATEVALIDATEDDOCFORCASE 14 (6 Parameter, showDocument=false, autoValidateDocument=false),finished,15.12.2016 23:56:38,16.12.2016 00:03:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14312,AreaSizeWarningPanel in WoundOverview,finished,16.12.2016 07:15:46,16.12.2016 07:18:37,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14330,Create resource,finished,16.12.2016 05:57:54,16.12.2016 05:58:30,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14331,Create resource pool,finished,16.12.2016 05:58:40,16.12.2016 05:59:55,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14379,StateIcon and new state teilbearbeitet,finished,16.12.2016 04:34:27,16.12.2016 04:41:10,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14382,WoundDocuments Delete  RLS document as template,finished,16.12.2016 12:47:51,16.12.2016 12:51:24,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14385,Search wounds of a specific ward,finished,16.12.2016 12:37:12,16.12.2016 12:38:08,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14386,Search wounds and delete search criteria,finished,16.12.2016 12:33:30,16.12.2016 12:34:27,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14393,Entrer - autoNew - TRUE,finished,15.12.2016 20:29:30,15.12.2016 20:30:48,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14394,Entrer - autoNew - ON CONDITION,finished,15.12.2016 20:30:54,15.12.2016 20:33:52,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14396,Delete appointments (storno mode),finished,15.12.2016 18:21:24,15.12.2016 18:23:23,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14397,Aktualisierung von Dokumenten im SER-Archiv (create RDY-File),finished,16.12.2016 07:21:06,16.12.2016 07:33:07,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14399,Run SERDokumentExportTool for exporting document-informations of SERdocuments of certain time-periode_1,finished,16.12.2016 07:12:52,16.12.2016 07:15:41,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14402,Run SERDokumentExportTool for exporting document-informations of SERdocuments of certain idExterns from certain file,finished,16.12.2016 07:40:10,16.12.2016 07:42:31,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14404,Try to plan in storno view (storno mode),finished,15.12.2016 17:34:18,15.12.2016 17:38:28,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14414,Plan a MultiAppBook appointment,finished,15.12.2016 17:38:34,15.12.2016 17:40:42,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14418,Edit a MultiAppBook appointment,failed,15.12.2016 18:40:50,15.12.2016 18:46:18,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14419,Copy a MultiAppBook appointment,finished,15.12.2016 18:46:25,15.12.2016 18:52:14,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14420,Delete a MultiAppBook appointment,finished,15.12.2016 18:23:33,15.12.2016 18:28:57,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14422,Printing a MultiAppBook appointment,finished,15.12.2016 19:17:10,15.12.2016 19:22:58,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14440,Counting additionals  Zusatzspeisen,finished,16.12.2016 03:54:17,16.12.2016 04:03:47,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14441,Delete a position from the menuordering,finished,16.12.2016 03:11:10,16.12.2016 03:23:05,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14446,Plan multiple appointments with MultiTerminBuch appointments,started,15.12.2016 17:55:28,15.12.2016 17:55:29,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14477,Number of opendone menu orderings,finished,16.12.2016 02:49:58,16.12.2016 02:53:48,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14482,Userquestion Do you want to save your changes,finished,16.12.2016 04:11:35,16.12.2016 04:19:47,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14483,Switch to other workareas and back again,finished,16.12.2016 05:09:29,16.12.2016 05:13:22,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14485,Open Essensbestellung by contextmenu,finished,16.12.2016 04:51:05,16.12.2016 05:03:01,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+145,Open todo - lock workplace (same client),finished,16.12.2016 05:00:43,16.12.2016 05:02:20,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14503,Change the diet for an already stored menuordering,finished,16.12.2016 03:23:16,16.12.2016 03:26:28,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14542,Setting Vorschlag vom Vortagproposal from previous day,finished,16.12.2016 05:03:12,16.12.2016 05:09:18,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14557,Create new word-document in clinical document where fields of Dokument.entrer are filled,failed,16.12.2016 02:36:52,16.12.2016 02:40:40,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14567,Check clinical document via ValidateClinicalDocumentCFT,failed,16.12.2016 03:26:05,16.12.2016 03:29:12,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14576,Image Import - Import large set of images from File system (WoundImageAssignmentWorkArea),finished,16.12.2016 10:19:13,16.12.2016 10:20:52,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14585,Fast Assignment of Wound Images to Bed using the Ward View - Create New Wound,finished,16.12.2016 11:23:21,16.12.2016 11:27:37,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14592,Image Import - Internal Image Library,finished,16.12.2016 10:21:04,16.12.2016 10:24:27,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14594,Committing a Wound (Authentication Dialog without usernamepassword),finished,16.12.2016 07:18:47,16.12.2016 07:24:16,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14596,WoundDocuments copy applied therapy to another wound,finished,16.12.2016 13:00:34,16.12.2016 13:05:18,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14612,Wound Imaging Appearance of wound masks in Word-Befund,finished,16.12.2016 12:05:51,16.12.2016 12:08:50,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14620,Reverting Committment of a Wound (Authentication Dialog without usernamepassword),finished,16.12.2016 07:24:26,16.12.2016 07:30:01,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14715,Changing the state of a simple appointment changes the color,finished,15.12.2016 19:23:04,15.12.2016 19:27:35,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14719,Create and use a modified textblockfilter in clinical-documentWorkArea,failed,16.12.2016 03:29:19,16.12.2016 03:33:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14730,View of the origin clinical document as document within documentbrowser (case-related, for case having no clinical document until now for both cases),finished,16.12.2016 03:54:47,16.12.2016 03:56:28,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14731,View of the origin clinical document as document within documentbrowser (case-related, one case having clinical document, one case not having clinical document),finished,16.12.2016 03:52:51,16.12.2016 03:54:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14732,View of the origin clinical document as document within documentbrowser (patient-related, for case having no clinical document until now),finished,16.12.2016 03:59:32,16.12.2016 04:01:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14733,View of the origin clinical document as document within documentbrowser (patient-related, both cases having clinical document),finished,16.12.2016 03:56:32,16.12.2016 03:59:27,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14734,View of the origin clinical document as document within documentbrowser (case-related, both cases having clinical document),finished,16.12.2016 03:51:06,16.12.2016 03:52:47,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14735,Wound Symbols for Stays in Ward View,finished,16.12.2016 13:32:49,16.12.2016 13:36:58,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14774,External appointment move,finished,16.12.2016 16:21:53,16.12.2016 16:47:18,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14775,External appointment delete,finished,16.12.2016 16:47:34,16.12.2016 17:11:48,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14797,Role login - OWC - role specified by MPA parameter -role,finished,15.12.2016 18:00:35,15.12.2016 18:03:12,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14828,Image Import - File system (initial directory user-home),finished,16.12.2016 10:13:43,16.12.2016 10:18:59,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14833,State reverse transmission for an Order,finished,16.12.2016 19:09:05,16.12.2016 19:25:16,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+14851,Origin clinical document as document within documentbrowser - empty clinical documents not listed due to property dontShowEmptyClinicalDocuments,finished,16.12.2016 03:49:21,16.12.2016 03:51:01,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+14890,Show up to date stay when opening OP Planung,finished,16.12.2016 01:42:46,16.12.2016 01:49:41,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14891,Automatic on open from Todolist,finished,16.12.2016 04:18:41,16.12.2016 04:20:21,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14909,Customizing PreOP OP briefing object - INCLUDING WORKAROUND FOR BUG 65424,finished,16.12.2016 01:20:53,16.12.2016 01:28:27,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14952,Close last document in Visio Process Builder,finished,16.12.2016 00:55:22,16.12.2016 00:56:15,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14973,Save last document in Visio Process Builder,finished,16.12.2016 00:56:19,16.12.2016 00:57:37,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14974,Rename last document in Visio Process Builder,finished,16.12.2016 00:57:41,16.12.2016 00:59:29,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14976,User login - OWC - general mechanism,finished,15.12.2016 17:43:05,15.12.2016 17:44:28,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14977,User login - OWC - user specified by MPA parameter -user,finished,15.12.2016 17:46:15,15.12.2016 17:47:32,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14978,Role login - OWC - general mechanism (multiple roles available),finished,15.12.2016 17:54:24,15.12.2016 17:57:05,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14981,Journal and Install - Workflow,finished,16.12.2016 05:28:05,16.12.2016 05:41:56,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14982,Journal and Install - Appointment Calendar,finished,16.12.2016 03:42:21,16.12.2016 03:50:38,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14984,Journal and Install - Bed management,finished,16.12.2016 03:08:40,16.12.2016 03:16:09,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14986,Journal and Install - Order,finished,16.12.2016 02:37:22,16.12.2016 02:45:49,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14988,Journal and Install - Document,finished,16.12.2016 01:56:54,16.12.2016 02:10:23,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14990,Journal and Install - Icons,finished,16.12.2016 03:59:38,16.12.2016 04:07:55,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14991,Search by Planned Employee,finished,15.12.2016 22:27:56,15.12.2016 22:29:40,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14992,Journal and Install - Views (Patient Browser, Clinical document),finished,16.12.2016 03:50:43,16.12.2016 03:59:32,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+14993,Search by Attendant Employee,finished,15.12.2016 22:29:49,15.12.2016 22:31:34,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14995,Search by Commitment State,finished,15.12.2016 22:31:43,15.12.2016 22:33:08,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14996,Search by OP Room,finished,15.12.2016 22:33:18,15.12.2016 22:35:05,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+14997,Search by Temporary Patient, Planned Stay or Station Stay,finished,15.12.2016 22:35:15,15.12.2016 22:36:41,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15009,Customizing SWF MetaProzess for SurgeryOPCatalog,finished,16.12.2016 01:34:18,16.12.2016 01:42:34,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15010,Delete already committed SurgerySession (WFL),finished,16.12.2016 01:49:54,16.12.2016 02:01:15,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15019,Admit new case with new patient,finished,16.12.2016 20:32:51,16.12.2016 20:50:06,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15023,RolleTodoListe - wildcard resource,finished,16.12.2016 06:14:33,16.12.2016 06:17:08,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15025,Unable to start a TodolistClient with a non-TodolistClient resource.,finished,16.12.2016 05:48:03,16.12.2016 05:49:31,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15026,Start a TodolistClient with a TodolistClient resource.,finished,16.12.2016 05:49:40,16.12.2016 05:50:34,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15027,Start a TodolistClient with a non-TodolistClient resource for migration.,finished,16.12.2016 05:50:43,16.12.2016 05:51:37,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15031,Bed allocation - Admissions in browser,finished,16.12.2016 00:06:19,16.12.2016 00:14:18,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15049,EasyJournaling without any bundle in the bundles directoryuseDefaultValue for bundlename,finished,16.12.2016 04:31:24,16.12.2016 04:34:13,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15073,Add a textblock to a template,finished,15.12.2016 17:19:17,15.12.2016 17:20:52,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15078,Dokument SurgerySession  SurgeryOP times,finished,15.12.2016 23:39:51,15.12.2016 23:46:33,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15096,Deposit Process (with new planning-mechanism),finished,15.12.2016 18:36:03,15.12.2016 18:38:33,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15097,Journal customizing of Wound Classes,finished,16.12.2016 04:42:58,16.12.2016 04:50:49,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15098,Install customizing of WoundClasses,finished,16.12.2016 16:24:30,16.12.2016 16:34:55,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15102,Journal customizing of BodyModel,finished,16.12.2016 04:50:56,16.12.2016 04:58:59,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15103,Install customizing of BodyModels,finished,16.12.2016 16:35:00,16.12.2016 16:45:44,Customizing Transport,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15135,Start check - never allow,finished,16.12.2016 02:07:36,16.12.2016 02:08:46,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15162,Enable Order for ward,finished,16.12.2016 05:32:35,16.12.2016 05:38:33,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15166,Start a process for a LogObject - Single MetaProzess, default action name,finished,16.12.2016 02:40:54,16.12.2016 02:43:59,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15189,Run SERDokumentExportTool for exporting document-informations of SERdocuments of certain documentids from certain file,finished,16.12.2016 08:00:18,16.12.2016 08:02:51,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15190,Edit Subprocess - open parent process,finished,16.12.2016 01:18:37,16.12.2016 01:20:44,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15209,Export WoundStages to KAV MedArchiv webservice,finished,16.12.2016 13:37:11,16.12.2016 13:44:55,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15239,Setting count for DocumentVerteiler to Zero,finished,15.12.2016 21:40:23,15.12.2016 21:43:52,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15241,Task Inconsistency - Subprocess with runtime limit (= rel_3.11),finished,16.12.2016 00:53:35,16.12.2016 00:55:18,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15248,Inbox-extension Showing the datetime of the last content-refresh,finished,16.12.2016 05:21:09,16.12.2016 05:21:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15264,ResetCFT,finished,16.12.2016 05:20:56,16.12.2016 05:24:45,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15265,RefillCFT,finished,16.12.2016 05:24:56,16.12.2016 05:27:50,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15266,Searching documents at search-workarea checkNeededCriteria,finished,16.12.2016 05:21:40,16.12.2016 05:25:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15378,Cyclic availabilities based on RecurrenceExpression- every MondayFeiertage beachten,finished,15.12.2016 17:10:02,15.12.2016 17:13:14,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15379,Creation of new wounds Introduction of stay-chooser-panel,finished,16.12.2016 10:39:31,16.12.2016 10:42:44,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15380,Creation of new wounds Introduction of stay-chooser-panel 2,finished,16.12.2016 10:42:55,16.12.2016 10:46:10,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15381,Plan multiple appointments with recurrence-rule,finished,15.12.2016 17:59:12,15.12.2016 18:02:02,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15382,DnD Appointment Moving appointment to end of the previous appointment,finished,16.12.2016 01:07:40,16.12.2016 01:11:01,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15422,Create new word-document in clinical document - fields of Dokument.entrer are filled using today's date,failed,16.12.2016 02:32:57,16.12.2016 02:36:46,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15436,Create a reservation,finished,16.12.2016 00:16:55,16.12.2016 00:18:05,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15465,Delete an appointment for a patient,finished,15.12.2016 18:29:02,15.12.2016 18:31:46,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15469,Wound Imaging Stamps for Illustrations,finished,16.12.2016 12:08:56,16.12.2016 12:11:25,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15502,Multiple wound stages per day,finished,16.12.2016 10:46:22,16.12.2016 10:51:11,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15503,Multiple wound stages per day Multiple Upload,finished,16.12.2016 10:51:23,16.12.2016 10:55:39,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+15532,Print OrgMittel via OrgmittelPrinterCFT two times (different printers),finished,16.12.2016 02:38:14,16.12.2016 02:41:05,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15561,Try to save not correct filled blocks in ClinicalDocumentWorkArea,failed,16.12.2016 02:17:19,16.12.2016 02:20:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15620,Printing of PDF-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:13:54,16.12.2016 10:18:22,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15621,Printing of JPG-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:18:31,16.12.2016 10:21:16,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15649,Printing of invalid JPG-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:21:23,16.12.2016 10:24:09,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15650,Printing of invalid PDF-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003))_1,finished,16.12.2016 10:24:14,16.12.2016 10:27:04,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15651,Printing of Word-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:33:07,16.12.2016 10:36:11,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15652,Printing of invalid-Word-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:36:17,16.12.2016 10:39:11,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15659,KrankenGeschichte exportieren (exportAllObjects = False),finished,16.12.2016 14:08:53,16.12.2016 14:10:46,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15696,Printing of TXT-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:27:10,16.12.2016 10:30:03,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15697,Printing of invalid TXT-document imported into SER-storage (bluelineversion DOXIS4 - Use Watermarkprinting (Wordversion  2003)),finished,16.12.2016 10:30:09,16.12.2016 10:33:01,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+15721,OnkoDB Open WA Diagnostik,finished,15.12.2016 21:09:51,15.12.2016 21:11:58,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15722,OnkoDB Open WA Doku,finished,15.12.2016 21:58:42,15.12.2016 22:00:58,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15723,OnkoDB  Open WA Kontrollen,finished,15.12.2016 22:35:50,15.12.2016 22:37:32,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15724,OnkoDB Open WA DGKS Doku,finished,15.12.2016 22:51:28,15.12.2016 22:53:22,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15725,OnkoDBWA Diagnostik Save data in the application,finished,15.12.2016 21:12:11,15.12.2016 21:18:39,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15726,OnkoDBWA Diagnostik Delete data in the application,finished,15.12.2016 21:18:49,15.12.2016 21:23:47,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15727,OnkoDBWA Diagnostik Correct SVG-bodymodel,finished,15.12.2016 21:23:55,15.12.2016 21:27:23,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15728,OnkoDBWA Diagnostik Move to OnkoDoku via button,finished,15.12.2016 21:27:32,15.12.2016 21:30:08,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15730,OnkoDBWA Diagnostik Detail-Lokalisation,finished,15.12.2016 21:30:17,15.12.2016 21:36:47,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15731,OnkoDBWA Diagnostik Diagnosis from Detail-Lokalisation,finished,15.12.2016 21:36:58,15.12.2016 21:40:13,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15732,OnkoDBWA Diagnostik Detail-Lokalisation, Seitenangabe,finished,15.12.2016 21:40:20,15.12.2016 21:44:15,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15735,OnkoDB WA OnkoDoku Diagnosis,finished,15.12.2016 22:09:48,15.12.2016 22:16:56,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15736,OnkoDB WA OnkoDoku Second Diagnosis,finished,15.12.2016 22:26:31,15.12.2016 22:35:40,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15737,OnkoDB WA OnkoDoku Diagnosis search,finished,15.12.2016 22:17:05,15.12.2016 22:26:24,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15740,OnkoDB  WA OnkoDoku Save data in the application,finished,15.12.2016 22:01:07,15.12.2016 22:06:44,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15741,OnkoDB  WA OnkoDoku Delete data in the application,finished,15.12.2016 22:06:53,15.12.2016 22:09:38,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15742,OnkoDB  Open WA Kontrollen Save data in the application,finished,15.12.2016 22:37:40,15.12.2016 22:42:33,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15743,OnkoDB  Open WA Kontrollen Delete data in the application,finished,15.12.2016 22:42:40,15.12.2016 22:44:46,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15744,OnkoDB WA KontrollenDiagnosis,finished,15.12.2016 22:44:55,15.12.2016 22:51:20,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15745,OnkoDBWA DiagnostikHämatologische Malignome,finished,15.12.2016 21:44:25,15.12.2016 21:50:37,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15746,OnkoDBWA DiagnostikIPSS Score,finished,15.12.2016 21:50:46,15.12.2016 21:56:07,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15752,OnkoDB WA DGKS Doku Save data in the application,finished,15.12.2016 22:53:30,15.12.2016 22:58:45,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15753,OnkoDB WA DGKS Doku Delete data in the application,finished,15.12.2016 22:58:53,15.12.2016 23:01:25,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15754,OnkoDB WA DGKS Doku Studienpatient,finished,15.12.2016 23:01:33,15.12.2016 23:06:52,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15898,Associate a userrole to a document group (ASSOC UserDokumentBereich),finished,15.12.2016 17:33:38,15.12.2016 17:35:20,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15913,ClinDoc within documentbrowser (befdate is empty),finished,16.12.2016 03:47:06,16.12.2016 03:49:15,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15914,ClinDoc within documentbrowser (befdate is CurrentDate-Time),finished,16.12.2016 03:44:46,16.12.2016 03:47:03,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15926,Print user-selected clinical comments from clinical document as Orgmittel,finished,16.12.2016 03:20:56,16.12.2016 03:24:54,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+15941,Diabetes Doku - Open WA,finished,15.12.2016 20:56:12,15.12.2016 20:58:04,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15942,Diabetes Doku - Save Data in the application,finished,15.12.2016 20:58:13,15.12.2016 21:05:41,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15943,Diabetes Doku - Set Data invalid in the application,finished,15.12.2016 21:05:51,15.12.2016 21:09:40,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15944,Diabetes Doku - Open WA,finished,15.12.2016 20:43:07,15.12.2016 20:44:51,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15945,Diabetes Doku - Save Data in the application,finished,15.12.2016 20:45:01,15.12.2016 20:52:32,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15946,Diabetes Doku - Delete Data in the application,finished,15.12.2016 20:52:42,15.12.2016 20:56:04,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15948,Diabetes Doku - Register  Tabs,finished,15.12.2016 19:06:46,15.12.2016 19:12:35,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15949,Diabetes Doku - Hauptregister  Anamnese,finished,15.12.2016 19:12:47,15.12.2016 19:35:19,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15950,Diabetes Doku - Hauptregister  Aktueller Besuch,finished,15.12.2016 19:35:28,15.12.2016 19:40:54,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15951,Diabetes Doku - Hauptregister  Spätkomplikation,finished,15.12.2016 19:41:13,15.12.2016 20:09:45,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15952,Diabetes Doku - Hauptregister  Therapien,finished,15.12.2016 20:09:57,15.12.2016 20:30:07,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15954,Diabetes Doku - Hauptregister  Zusammenfassung,finished,15.12.2016 20:30:17,15.12.2016 20:32:54,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15970,Diabetes Doku - Überwachungsparameter,finished,15.12.2016 20:33:05,15.12.2016 20:36:25,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+15972,Diabetes Doku - OkNe,finished,15.12.2016 20:36:37,15.12.2016 20:42:57,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16066,No admission when external admission number exists,finished,16.12.2016 21:09:41,16.12.2016 21:24:30,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16067,Admit new case to existing patient - different address,finished,16.12.2016 21:24:44,16.12.2016 21:43:41,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16069,Can't Admit -- start error process,finished,16.12.2016 21:43:55,16.12.2016 21:58:36,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16070,Multi-locations of wounds,finished,16.12.2016 11:31:57,16.12.2016 11:36:08,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16071,Multi-locations of wounds Change location,finished,16.12.2016 11:36:21,16.12.2016 11:39:02,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16072,Multi-Location of wounds Change location by table,finished,16.12.2016 11:39:14,16.12.2016 11:41:52,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16074,Wound diagnosis,finished,16.12.2016 11:42:06,16.12.2016 11:45:58,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16077,KAV Wound Assessments create new document,finished,16.12.2016 11:04:18,16.12.2016 11:07:55,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16078,KAV Wound Assessments edit new document,finished,16.12.2016 11:08:07,16.12.2016 11:12:32,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16079,KAV Wound Assessments save as template,finished,16.12.2016 11:12:41,16.12.2016 11:14:57,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16080,KAV Wound Assessments copypaste assessments,finished,16.12.2016 11:15:06,16.12.2016 11:19:05,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16081,Wound Appointment,finished,16.12.2016 13:45:06,16.12.2016 13:48:09,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16082,Wound Appointment 2,finished,16.12.2016 13:48:20,16.12.2016 13:51:40,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16105,Plan an appointment (with a patient, but without a stay),finished,15.12.2016 17:44:50,15.12.2016 17:47:41,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16159,Set permission BlockArtTyp.read,failed,16.12.2016 04:30:22,16.12.2016 04:34:11,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16186,Print out PreAnaesthesia and PreOP briefing documentation (simple version) 13,finished,15.12.2016 23:56:24,16.12.2016 00:00:51,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16198,Image Import - File system (multiple images import),finished,16.12.2016 11:46:09,16.12.2016 11:49:58,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16232,KAV Login Panel jump to first role with the desired letter,finished,15.12.2016 18:16:27,15.12.2016 18:17:51,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16233,KAV Login Panel focus traversal,finished,15.12.2016 18:18:01,15.12.2016 18:20:36,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16234,KAV Login Panel backwards focus traversal,finished,15.12.2016 18:20:44,15.12.2016 18:23:18,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16316,Call clinical documentation via context menue several times,failed,16.12.2016 01:20:25,16.12.2016 01:24:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16392,Edit an order and switch to an other one (cancel save dialog),finished,16.12.2016 07:33:47,16.12.2016 07:36:27,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16483,Open an order for edit and change the role,finished,16.12.2016 07:28:23,16.12.2016 07:29:57,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16492,Re-open an order for edit after rolechange,finished,16.12.2016 07:30:01,16.12.2016 07:33:42,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16506,Save check at process start - no relevant position selected,finished,16.12.2016 12:05:19,16.12.2016 12:06:19,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16520,Wound Imaging  Draw masks add mask with self intersecting shapes,finished,16.12.2016 12:23:24,16.12.2016 12:26:02,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16521,Wound Imaging  Draw masks reduce mask with self intersecting shapes,finished,16.12.2016 12:26:12,16.12.2016 12:28:50,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16524,Inbox-extension Open documents with new document-actions,finished,16.12.2016 05:14:12,16.12.2016 05:21:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16526,Inbox-extension DocumentContent-Preview,finished,16.12.2016 05:43:23,16.12.2016 05:52:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16531,Image Import - deleteSourceFilesAtImport PROMPT,finished,16.12.2016 11:27:49,16.12.2016 11:31:46,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16541,delete single parameter from catalog,finished,16.12.2016 12:37:01,16.12.2016 12:41:37,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16542,Multi-selection of orders for ward orders,finished,16.12.2016 06:59:03,16.12.2016 07:10:29,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16546,delete parameter collection,finished,16.12.2016 12:46:28,16.12.2016 12:51:31,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16547,delete parameter collection when catalog is 00000,finished,16.12.2016 12:51:37,16.12.2016 12:56:41,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16548,delete single parameter when catalog is 00000,finished,16.12.2016 12:41:43,16.12.2016 12:46:21,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16554,Searching documents at search-workarea checkModDateDocument,finished,16.12.2016 05:25:12,16.12.2016 05:28:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16555,Searching documents at search-workarea checkAnlDateOrder,finished,16.12.2016 05:29:02,16.12.2016 05:33:50,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16556,Searching documents at search-workarea Actual search-feature,finished,16.12.2016 05:33:57,16.12.2016 05:43:16,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16558,Change meta process,finished,15.12.2016 18:52:21,15.12.2016 18:56:40,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16560,Change meta process - with appointment books,finished,15.12.2016 18:56:47,15.12.2016 18:59:14,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16570,create parameter collection (AnforderungsProfil and associations AnforderungsTypAnforderungsProfil),finished,16.12.2016 12:27:52,16.12.2016 12:36:54,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16591,OP Search search for planned and unplanned surgerySessions,finished,16.12.2016 00:51:08,16.12.2016 00:55:40,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16593,FieldValidation Expression - Klinisches Dokument,failed,15.12.2016 20:41:47,15.12.2016 20:45:41,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16612,Print out PreAnaesthesia and PreOP briefing documentation (simple version) 23,finished,16.12.2016 00:01:03,16.12.2016 00:06:36,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16613,Print out PreAnaesthesia and PreOP briefing documentation (simple version) 33,finished,16.12.2016 00:06:48,16.12.2016 00:12:51,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16625,WoundManagement in Workflow - Show existing Wounds,finished,16.12.2016 13:11:48,16.12.2016 13:15:13,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16656,Try to delete a AnforderungStatusTyp,finished,16.12.2016 06:30:38,16.12.2016 06:31:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16677,Creation of a minimum Metaprocess including verification run in DWB,finished,16.12.2016 00:32:52,16.12.2016 00:39:19,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16684,DatenTransferImportService import status radAuftragEingelangt,finished,16.12.2016 14:06:48,16.12.2016 14:14:35,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16703,Try to export modified clinical comments to Topas,finished,16.12.2016 10:39:20,16.12.2016 10:45:05,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16704,DatenTransferImportService import status (Aktualisieren von UntersuchungsZeitpunkt),finished,16.12.2016 14:14:40,16.12.2016 14:29:03,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16705,Journal and Install - Wound Documentation,finished,16.12.2016 04:34:20,16.12.2016 04:42:51,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16706,Topas open document with CFT,finished,16.12.2016 10:45:11,16.12.2016 10:48:31,External System Integration,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16712,Missing single-parameter(AnforderungsKatalogEintrag) for a profile-position(AnforderungsKatalogProfilPosition),finished,16.12.2016 12:56:57,16.12.2016 13:16:24,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16713,WoundImage file not found (big image not found correctly, thumbnail listed correctly),finished,16.12.2016 12:19:24,16.12.2016 12:23:12,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16714,Wound Measurement Length and Width label,finished,16.12.2016 14:12:32,16.12.2016 14:15:31,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+16770,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is true.,failed,16.12.2016 02:01:12,16.12.2016 02:02:58,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16771,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is false,failed,16.12.2016 01:53:42,16.12.2016 01:55:28,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16798,Expressionfunction CREATEDOCFORCASE 14 (7 parameters, showDocument=false and docAutoSave=true),finished,15.12.2016 22:45:59,15.12.2016 22:48:03,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16799,Expressionfunktion CREATEVALIDATEDDOCFORCASE 14  Dokument wird angezeigt und es ist eine DefaultingDefinition gesetzt, autoValidateDocument=true,finished,16.12.2016 00:23:24,16.12.2016 00:27:22,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16804,A01 - Aufnahme stationärer Patient (SAP),finished,16.12.2016 19:49:24,16.12.2016 20:12:58,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16859,Patchnumbers must be listed in BundleManager even if no Index-file is available,finished,16.12.2016 04:08:01,16.12.2016 04:09:48,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16860,Installation Simulation OK-bundle for Repository Objects,finished,16.12.2016 04:23:13,16.12.2016 04:31:20,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16861,Install - object combinations role and repo object in same bundle,finished,16.12.2016 04:09:53,16.12.2016 04:17:17,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16866,Manage Bundle Data - remove workflow from bundle,finished,16.12.2016 04:18:59,16.12.2016 04:20:56,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16879,Planning in cyclic availabilities with interval types Expression & Woche,finished,15.12.2016 17:47:47,15.12.2016 17:50:30,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16881,OnkoDB Filter in TNMLapses,finished,15.12.2016 21:56:17,15.12.2016 21:58:31,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+16904,Standardberechtigungen WorkflowDLOrd,finished,16.12.2016 07:26:26,16.12.2016 07:28:18,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16917,Start an appointment replace ambulatory case by ambulatory case with same OrgUnit (not discharged),finished,15.12.2016 19:53:48,15.12.2016 19:57:10,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+16932,Expressionfunction CREATEVALIDATEDDOCFORCASE 24 (6 Parameter, showDocument=true, autoValidateDocument=false),finished,16.12.2016 00:04:01,16.12.2016 00:10:28,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16933,Expressionfunction CREATEVALIDATEDDOCFORCASE 34 (6 Parameter, showDocument=true, autoValidateDocument=true),finished,16.12.2016 00:10:35,16.12.2016 00:16:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16934,Expressionfunction CREATEVALIDATEDDOCFORCASE 44 (6 Parameter, showDocument=false, autoValidateDocument=true),finished,16.12.2016 00:16:59,16.12.2016 00:23:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16936,Filtern der Anzeige des AnforderungsTyps mit MemoryFilter,finished,16.12.2016 07:37:45,16.12.2016 07:39:58,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+16938,Verteilung validierter EDIFACT Befunde mit ValidierenEVerteilenCFT,finished,16.12.2016 04:45:31,16.12.2016 04:48:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17074,Expressionfunction CREATEDOCFORCASE 12 (5 Parameter) - showDokument=false,finished,15.12.2016 22:37:15,15.12.2016 22:42:01,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17075,Expressionfunction CREATEDOCFORCASE 24 (7 parameters, showDocument=true and docAutoSave=false),finished,15.12.2016 22:48:09,15.12.2016 22:51:05,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17076,Expressionfunction CREATEDOCFORCASE 44 (7 parameters, showDocument=true and docAutoSave=true, with DefaultingDefinition),finished,15.12.2016 22:54:50,15.12.2016 22:58:20,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17094,Ordering at process start - order selectionlist,finished,16.12.2016 12:02:09,16.12.2016 12:03:33,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17115,Deletion of orders for ward orders,finished,16.12.2016 07:10:34,16.12.2016 07:13:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17149,Open WorkArea in specific WorkingCenter (openMode),finished,15.12.2016 20:34:30,15.12.2016 20:35:00,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17155,Pflichtfeldprüfung nach Dokumente anzeigen,finished,16.12.2016 11:57:17,16.12.2016 11:58:32,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17180,Manuelle Statusänderung einer exportierten KrankenGeschichte,finished,16.12.2016 14:19:03,16.12.2016 14:20:06,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17222,Expressionfunction CREATEDOCFORCASE 34 (7 parameters, showDocument=true and docAutoSave=true, invalid DefaultingDefinition),finished,15.12.2016 22:51:11,15.12.2016 22:54:44,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17251,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is true, Patientbez. KlinischesDokument  Expression,failed,16.12.2016 01:57:27,16.12.2016 01:59:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17252,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is true & useTextblockfilterDirectly is false, Patientbez. KlinischesDokument  Expression,failed,16.12.2016 01:55:34,16.12.2016 01:57:21,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17253,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is true & useTextblockfilterDirectly is false, Aufenthaltbez. KlinischesDokument  Expression,failed,16.12.2016 02:03:03,16.12.2016 02:04:51,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17254,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is true, Aufenthaltbez. KlinischesDokument  Expression,failed,16.12.2016 01:59:19,16.12.2016 02:01:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17255,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is true & useTextblockfilterDirectly is false, Open KlinDok via WFL, Patientbez. KlinischesDokument  Expression,failed,16.12.2016 02:04:56,16.12.2016 02:07:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17256,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is true, Open KlinDok via WFL, Patientbez. KlinischesDokument  Expression,failed,16.12.2016 02:11:09,16.12.2016 02:14:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17257,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is true & useTextblockfilterDirectly is false, Open KlinDok via WFL, Aufenthaltbez. KlinischesDokument  Expression,failed,16.12.2016 02:08:03,16.12.2016 02:11:03,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17258,showInitBlocksForNewClinDocWhenClinCommentsAlreadyExists is false & useTextblockfilterDirectly is true, Open KlinDok via WFL, Aufenthaltbez. KlinischesDokument  Expression,failed,16.12.2016 02:14:15,16.12.2016 02:17:13,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17275,Suchfunktionen in der KrankenGeschichteLieferscheinWA,finished,16.12.2016 14:14:43,16.12.2016 14:18:54,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17326,Mehrfacheinplanen von Prozessprogrammen - useAppointmentDialog=false,finished,15.12.2016 18:05:07,15.12.2016 18:06:43,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17359,Image Import - Waiting time between image import and creation of new wound,finished,16.12.2016 11:50:09,16.12.2016 11:55:40,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17363,Prozessprogramm mit Symbol & Bemerkung erweitern & weiterleiten,finished,15.12.2016 19:49:44,15.12.2016 19:53:44,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17368,Ambulante Neuaufnahme & anschließend Leistungen erfassen,finished,16.12.2016 10:25:44,16.12.2016 10:34:22,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+$init$,$init$,$init$,$init$,$init$,$init$,$init$,$init$,$init$,$init$
+17378,Öffnen von Appointment OWC Workareas,finished,15.12.2016 19:31:53,15.12.2016 19:34:15,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17379,Öffnen von Dokument DWC Workareas,finished,15.12.2016 22:30:09,15.12.2016 22:33:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17380,Öffnen von Workflow DWC  Workareas,finished,16.12.2016 05:54:37,16.12.2016 05:55:42,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17381,Öffnen von menu DWC  Workareas,finished,16.12.2016 02:44:30,16.12.2016 02:46:08,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17382,Öffnen von Order DWC  Workareas,finished,16.12.2016 11:15:12,16.12.2016 11:17:58,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17383,Öffnen von Label and formular printing OWC  Workareas,finished,16.12.2016 02:41:13,16.12.2016 02:42:40,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17384,Öffnen von Patient Administration DWC  Workareas,finished,16.12.2016 11:56:26,16.12.2016 11:59:13,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17385,Öffnen von SPD DWC  Workareas,finished,15.12.2016 21:46:38,15.12.2016 21:53:02,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17386,Öffnen von Betten Management DWC Workareas,finished,15.12.2016 21:01:19,15.12.2016 21:02:46,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17387,Öffnen von WM DWC  Workareas,finished,16.12.2016 13:51:49,16.12.2016 13:55:22,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17388,Öffnen von DP DWC Workareas,finished,16.12.2016 00:43:49,16.12.2016 00:45:53,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17389,Öffnen von Betten Reservation DWC Workareas,finished,16.12.2016 00:15:40,16.12.2016 00:16:50,Bed reservation,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17390,Öffnen von Admitting doctor DWC Workareas,finished,15.12.2016 17:06:40,15.12.2016 17:08:28,Admitting doctor,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17403,Öffnen von Appointment DWC Workareas,finished,15.12.2016 19:30:00,15.12.2016 19:31:49,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17424,Öffnen von Basic OWC  Workareas,finished,15.12.2016 20:08:06,15.12.2016 20:12:59,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17425,Öffnen von Betten Management OWC Workareas,finished,15.12.2016 21:02:50,15.12.2016 21:04:13,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17426,Öffnen von Dokument OWC Workareas,finished,15.12.2016 22:33:15,15.12.2016 22:37:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17431,Öffnen von Order OWC  Workareas,finished,16.12.2016 11:18:03,16.12.2016 11:20:32,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17432,Öffnen von Patient Administration OWC  Workareas,finished,16.12.2016 11:59:22,16.12.2016 12:01:21,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17433,Öffnen von SPD OWC  Workareas,finished,15.12.2016 21:53:15,15.12.2016 21:57:13,Surgery Planning and Documentation,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17434,Öffnen von WM OWC  Workareas,finished,16.12.2016 13:55:32,16.12.2016 13:58:52,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17435,Mehrfach einplanen - Anforderungen kopieren,finished,15.12.2016 18:09:41,15.12.2016 18:11:55,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17443,Cancel an in-patient admission in SAP-ISH not possible because existing object of case,finished,16.12.2016 14:29:10,16.12.2016 14:35:44,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17444,Cancel an ambulatory admission in SAP-ISH not possible because existing object of case,finished,16.12.2016 14:35:50,16.12.2016 14:41:40,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17446,Record procedures in Workflow (WorkflowDLOrd-Task),finished,16.12.2016 02:13:04,16.12.2016 02:17:48,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17449,Record procedures in Workflow (WorkflowDLOrd-Task)- for existing out-patient-stay,finished,16.12.2016 02:18:01,16.12.2016 02:21:55,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17452,Öffnen von Customizing Tools OWC  Workareas,finished,16.12.2016 01:30:10,16.12.2016 01:31:50,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17490,HL7 Diagnose- und LeistungsimportSAP,finished,16.12.2016 17:12:03,16.12.2016 17:32:26,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17500,Report execution - Execute report,finished,16.12.2016 15:32:54,16.12.2016 15:34:50,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17501,Report execution - property constr (OmgrConstraints),finished,16.12.2016 15:34:58,16.12.2016 15:35:43,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17502,Report execution - property Filter,finished,16.12.2016 15:35:49,16.12.2016 15:36:42,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17504,Report execution  - property oFormat oDevice PRINTER,finished,16.12.2016 15:36:52,16.12.2016 15:38:22,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17506,Report execution  - property oFormat oDevice SCREEN,finished,16.12.2016 15:38:32,16.12.2016 15:39:27,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17507,Report execution - property SortOrder,finished,16.12.2016 15:39:39,16.12.2016 15:40:42,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17508,Report execution  - property SortOrder 2,finished,16.12.2016 15:40:52,16.12.2016 15:41:54,Reporting,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17543,A02 - Verlegung Patient (SAP),finished,16.12.2016 20:13:22,16.12.2016 20:32:32,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17555,Journal and Install Prozess with Text Contextposition,finished,16.12.2016 05:42:04,16.12.2016 05:55:09,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17567,Journal, Merge and Install Prozess with Text Contextposition,finished,16.12.2016 05:55:16,16.12.2016 06:12:29,Customizing Transport,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17568,Kombiniertes Löschen und Neuanlegen von AnforderungsKatalogProfilen während Abarbeiten einer einzigen Nachricht,finished,16.12.2016 13:16:31,16.12.2016 13:27:42,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17572,Aktualisierung des Feld materialKZ eines Einzelparameter mit Wert Null,finished,16.12.2016 13:38:34,16.12.2016 13:49:11,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17573,Aktualisierung des Feld materialKZ eines Einzelparameter mit Wert Leerstring,finished,16.12.2016 13:49:17,16.12.2016 13:59:53,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17574,Aktualisierung des Feld materialKZ eines Einzelparameter mit einem gültigen Wert,finished,16.12.2016 13:27:48,16.12.2016 13:38:27,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17575,Anlegen eines AnforderungsKatalog in der Workarea AnforderungsKatalog,finished,16.12.2016 06:31:10,16.12.2016 06:31:37,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17587,Permission BlockArtTyp.read,failed,16.12.2016 03:40:55,16.12.2016 03:44:41,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17588,Filter text blocks in clinical document with predefined textblockfilters,failed,16.12.2016 03:37:09,16.12.2016 03:40:48,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17590,Check case data (SAP) - fullscreen Wizard,finished,16.12.2016 10:21:46,16.12.2016 10:25:14,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17600,User login - DWC - wrong username,finished,15.12.2016 18:23:27,15.12.2016 18:24:46,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17629,Fallstorno in SAP - CheckObjectDeps Service läuft nicht,finished,16.12.2016 14:54:06,16.12.2016 14:56:53,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17666,DynamischeRessource Ermittlung Serverseitige JythonScript-Ausführung,finished,16.12.2016 04:40:06,16.12.2016 04:43:47,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17673,Automatisches Starten von Termin-Prozessen und JythonScript,finished,16.12.2016 04:43:54,16.12.2016 04:47:08,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17692,Client- & serverseitige BeforeProzessStart-JythonScript-Ausführung,finished,16.12.2016 04:37:40,16.12.2016 04:39:55,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+17739,Document Import mit idExtern und externeReferenzen,finished,16.12.2016 18:15:42,16.12.2016 18:48:20,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17762,Expressionfunktion CREATEVALIDATEDDOCFORCASE 24  Dokument wird nicht angezeigt und es ist eine DefaultingDefinition gesetzt,finished,16.12.2016 00:27:28,16.12.2016 00:29:30,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17763,Expressionfunktion CREATEVALIDATEDDOCFORCASE 34  Dokument wird angezeigt, autom. gespeichert und DefaultingDefinition gesetzt, autoValidateDocument=false,finished,16.12.2016 00:29:35,16.12.2016 00:31:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17764,Expressionfunktion CREATEVALIDATEDDOCFORCASE 44  Dokument wird nicht angezeigt, autom. gespeichert und DefaultingDefinition gesetzt,finished,16.12.2016 00:32:02,16.12.2016 00:34:05,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17811,T02 - Dokument validieren,finished,16.12.2016 18:48:39,16.12.2016 19:08:47,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17815,Expressionfunction Patientendokumente,finished,16.12.2016 12:01:52,16.12.2016 12:07:44,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17837,Anzeige BlockArtTyp.read ohne Berechtigungseintrag (Rollenwechsel),failed,16.12.2016 04:34:18,16.12.2016 04:38:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17839,Anzeige BlockArtTyp.read mit Berechtigungseintrag (Rollenwechsel),failed,16.12.2016 04:38:16,16.12.2016 04:42:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17887,Admit new case for existing patient,finished,16.12.2016 20:50:22,16.12.2016 21:09:27,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+17902,Mandatory Relations Try to add not correctly filled blocks in ClinicalDocument,failed,16.12.2016 02:20:20,16.12.2016 02:24:05,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17904,Löschen von mehreren Tabelleneinträgen mittels Multiselektion,finished,15.12.2016 20:35:06,15.12.2016 20:39:23,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+17908,Popup menu filter Comments Create and use a modified textblockfilter in clinical-documentWorkArea,failed,16.12.2016 03:33:12,16.12.2016 03:37:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17926,Viewedit of the origin clinical document as document within documentbrowser (for case having no clinical document until now, ask for new clinical document),failed,16.12.2016 04:18:00,16.12.2016 04:22:24,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+17988,Check transported PGBA_BARTHEL objects - Vorlage,finished,15.12.2016 18:15:55,15.12.2016 18:18:21,CDR,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+18016,Öffnen von Workflow OWC  Workareas,finished,16.12.2016 05:55:50,16.12.2016 05:57:43,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+18026,Mehrfacheinplanen von Prozessprogrammen - useAppointmentDialog=true,finished,15.12.2016 18:06:49,15.12.2016 18:09:36,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+18035,Cancel an in-patient admission in SAP-ISH,finished,16.12.2016 14:41:46,16.12.2016 14:47:58,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+18036,Cancel an ambulatory admission in SAP-ISH,finished,16.12.2016 14:48:05,16.12.2016 14:54:01,Services,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+18094,Externer MPA Aufruf (Light Version) Basis Test - DokumentBrowser aus externem Programm öffnen,finished,16.12.2016 06:06:35,16.12.2016 06:10:22,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+219,View document information,finished,15.12.2016 20:56:31,15.12.2016 20:59:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+240,Workflow wizard - order requested (from predefined),finished,16.12.2016 02:12:59,16.12.2016 02:14:57,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+251,General tree actions,finished,15.12.2016 20:39:28,15.12.2016 20:41:41,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+260,File Import with Thumbnail Preview,finished,16.12.2016 06:50:40,16.12.2016 06:54:02,Wound Management,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+271,Open todo - by Enter,finished,16.12.2016 04:57:45,16.12.2016 05:00:33,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+273,Correct data in case header,finished,16.12.2016 11:54:06,16.12.2016 11:56:16,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+313,Show patient information,finished,15.12.2016 21:16:29,15.12.2016 21:19:04,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+314,Show the bedroomward information,finished,15.12.2016 21:21:00,15.12.2016 21:22:58,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+335,Permission to view one ward,finished,15.12.2016 21:08:52,15.12.2016 21:10:34,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+338,Assign symbol to case,finished,15.12.2016 22:33:09,15.12.2016 22:34:11,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+341,Transfer patient to another ward (drag & drop),finished,15.12.2016 23:15:24,15.12.2016 23:22:20,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+343,Transfer patient on ward (drag & drop),finished,15.12.2016 23:04:12,15.12.2016 23:06:41,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+344,Discharge Patient from ward,finished,15.12.2016 23:46:28,15.12.2016 23:48:09,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+347,Open document,finished,15.12.2016 21:23:59,15.12.2016 21:27:47,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+349,Show the content of a document,finished,15.12.2016 19:24:13,15.12.2016 19:25:18,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+3493,Copy an existing document,finished,15.12.2016 19:39:19,15.12.2016 19:40:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+3500,Print laboratory cumulative finding,finished,16.12.2016 00:56:30,16.12.2016 00:57:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+3504,Runtime limit - normal,finished,16.12.2016 05:28:00,16.12.2016 05:32:32,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+3506,Runtime limit - subprocess,finished,16.12.2016 05:32:42,16.12.2016 05:37:33,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+352,View diagnosis information,finished,15.12.2016 20:59:59,15.12.2016 21:01:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+3531,Search for Case by Case number,finished,16.12.2016 12:15:09,16.12.2016 12:16:16,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+3537,Create a new appointment template,started,15.12.2016 17:09:05,15.12.2016 17:09:07,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+368,Note text - symbol in list,finished,16.12.2016 04:47:19,16.12.2016 04:49:46,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+369,WorkflowPreselectDokumentBrowser,finished,16.12.2016 05:12:02,16.12.2016 05:14:36,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+3704,Document Import (MPA),finished,16.12.2016 17:51:25,16.12.2016 18:15:21,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+3732,Quick search diagnosis codes & descriptions,finished,15.12.2016 23:39:56,15.12.2016 23:48:39,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+3740,Write a new Word document (only one template associated),finished,15.12.2016 19:16:15,15.12.2016 19:19:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+3742,DocumentNewWizardDialog - document import,finished,16.12.2016 05:05:10,16.12.2016 05:14:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+38,WorkArea patient search,finished,16.12.2016 12:22:42,16.12.2016 12:23:31,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+396,SpeechMike - Create dictation,finished,15.12.2016 23:02:27,15.12.2016 23:04:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+397,Popup menu - compare with start workflow workarea,finished,16.12.2016 02:03:24,16.12.2016 02:05:11,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+3987,Discharge companions,finished,16.12.2016 13:12:20,16.12.2016 13:25:29,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+3992,Datumsfelder,finished,15.12.2016 20:33:56,15.12.2016 20:34:25,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+405,DefaultSetting - Customizing,finished,16.12.2016 04:41:30,16.12.2016 04:50:52,Menu ordering,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+4133,Assign symbol to bed location,finished,15.12.2016 22:37:20,15.12.2016 22:38:20,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+4140,Transfer a patient via clipboard,finished,15.12.2016 23:35:43,15.12.2016 23:37:19,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+4156,Action - Logging,finished,15.12.2016 20:26:51,15.12.2016 20:29:24,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+4159,Enable property to change language on logon,finished,15.12.2016 21:36:10,15.12.2016 21:37:23,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+4197,Sortorder of TextBlocks,failed,16.12.2016 01:37:45,16.12.2016 01:41:26,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+4199,Filtering Textblocks,failed,16.12.2016 01:26:57,16.12.2016 01:30:38,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+4203,Create a new template,finished,15.12.2016 17:15:46,15.12.2016 17:16:36,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+4204,Create a new text module,finished,15.12.2016 17:11:08,15.12.2016 17:12:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+4229,Client - update workflow listener,finished,16.12.2016 05:46:06,16.12.2016 05:47:54,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+425,Print OrganisationsmittelWorkorganizers,finished,16.12.2016 02:27:43,16.12.2016 02:30:39,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+426,MPA window maximized,finished,15.12.2016 21:37:32,15.12.2016 21:39:13,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+4265,Actions Dokument gültigungültig setzen,finished,16.12.2016 00:59:28,16.12.2016 01:06:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+428,Rolle anlegen,finished,15.12.2016 20:21:16,15.12.2016 20:21:50,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+429,Association UserRolle,finished,15.12.2016 20:22:03,15.12.2016 20:24:43,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+430,Association RolleWorkingCenter,finished,15.12.2016 20:24:52,15.12.2016 20:26:36,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+439,Todo list - previous activity (subprocess),finished,16.12.2016 03:18:25,16.12.2016 03:20:43,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+441,Process program with subprocess - patient necessary setting changes in process (from appointment)_1,finished,16.12.2016 04:25:43,16.12.2016 04:29:33,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+443,Process program - resort (during program execution),finished,16.12.2016 04:20:33,16.12.2016 04:25:31,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+444,Process program with subprocess (following activity),finished,16.12.2016 04:01:15,16.12.2016 04:03:48,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+446,Process program - autostart process (patient necessary, multiple clients),finished,16.12.2016 03:51:14,16.12.2016 03:56:15,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+4464,Symbols,finished,16.12.2016 04:49:56,16.12.2016 04:52:03,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+447,Process program - extend and forward,finished,16.12.2016 03:59:10,16.12.2016 04:01:04,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+448,Process program - extend and forward (same resource),finished,16.12.2016 04:35:23,16.12.2016 04:37:29,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+4491,Externer MPA Aufruf (Light Version) DokumentBrowser aus externem Programm öffnen - preset role,finished,16.12.2016 06:02:29,16.12.2016 06:06:30,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+4493,Todo list - readonly,finished,16.12.2016 02:51:48,16.12.2016 02:52:11,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+4549,Reservation - Admission,finished,16.12.2016 12:40:10,16.12.2016 12:44:22,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+4604,Create caselong-term diagnoses (FallDauerdiagnosen) in separate dialog box,finished,16.12.2016 01:16:36,16.12.2016 01:20:15,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+466,Association RolleWorkAreaDefault,finished,15.12.2016 20:26:46,15.12.2016 20:28:42,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+469,RolleStartableMetaProzess,finished,16.12.2016 06:17:18,16.12.2016 06:19:41,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+482,Coding of diagnoses via hitlists,finished,16.12.2016 00:49:36,16.12.2016 00:52:04,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+483,Edit Todo - additional workareas (at todo),finished,16.12.2016 01:06:05,16.12.2016 01:08:36,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+526,Open the workarea Patient Documents (pop-up menu),finished,15.12.2016 21:01:18,15.12.2016 21:02:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+535,Show existing diagnoses,finished,15.12.2016 23:32:12,15.12.2016 23:34:31,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+541,Insert a text module,finished,15.12.2016 18:38:59,15.12.2016 18:42:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+545,Insert a tabular placeholder (diagnoses),failed,15.12.2016 18:47:16,15.12.2016 18:51:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+553,Validate a document (pop-up menu),finished,16.12.2016 00:34:11,16.12.2016 00:36:41,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+555,Diagnoses Editor Button Felder löschen,finished,15.12.2016 23:13:28,15.12.2016 23:16:39,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+556,Created file from document import,finished,16.12.2016 04:54:39,16.12.2016 05:05:05,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+572,Editor-Basic-Functions,failed,16.12.2016 02:56:26,16.12.2016 02:59:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+579,View Clinical documentation,failed,16.12.2016 01:06:08,16.12.2016 01:08:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+606,Start Workflow - 'Gestartet' (switch patient),finished,16.12.2016 02:49:39,16.12.2016 02:51:09,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+613,Sequential selection of stay in WA LKF Arbeitsplatz,finished,16.12.2016 00:21:26,16.12.2016 00:24:31,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+621,scoring,finished,16.12.2016 00:14:50,16.12.2016 00:19:01,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+624,Coding of procedures via hitlists,finished,16.12.2016 00:53:41,16.12.2016 00:55:23,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+629,Auswahl eines Aufenthalts,finished,16.12.2016 00:26:00,16.12.2016 00:35:17,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+630,Enter a diagnosis code,finished,15.12.2016 23:21:28,15.12.2016 23:22:45,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+634,Coding of several diagnoses via hitlists,finished,16.12.2016 00:52:11,16.12.2016 00:53:33,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+643,General Browser Functionality 1,finished,15.12.2016 23:34:41,15.12.2016 23:37:17,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+650,Start Workflow - Show Details for started process,finished,16.12.2016 02:46:31,16.12.2016 02:48:25,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+654,Print Clinical Document as Orgmittel,finished,16.12.2016 03:03:10,16.12.2016 03:05:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+670,In-patient new admission co-insured,finished,16.12.2016 11:09:34,16.12.2016 11:17:48,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+671,In-patient new admission self-insured,finished,16.12.2016 10:46:54,16.12.2016 10:53:21,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+672,In-patient admission self-insured modify to co-insured,finished,16.12.2016 11:27:45,16.12.2016 11:36:26,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+674,In-patient admission automatically limit of co-insurance,finished,16.12.2016 11:36:41,16.12.2016 11:43:16,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+678,In-patient new admission with a change from co-insured to self-insured,finished,16.12.2016 11:05:03,16.12.2016 11:09:17,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+685,Set a document-subject to a new document (no subject associated),finished,15.12.2016 19:04:58,15.12.2016 19:06:45,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+687,Change the document-subject of an existing document (no subject associated),finished,15.12.2016 19:34:41,15.12.2016 19:36:08,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+718,View SystemaKIS finding,finished,16.12.2016 00:50:19,16.12.2016 00:52:44,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+719,Print SystemaKIS finding,finished,16.12.2016 00:52:50,16.12.2016 00:54:59,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+733,Write 2 new documents (editor updated),finished,15.12.2016 18:13:24,15.12.2016 18:18:33,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+734,Edit 2 documents (editor updated),finished,15.12.2016 19:41:04,15.12.2016 19:44:03,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+735,Switch between two documents,finished,15.12.2016 21:05:55,15.12.2016 21:08:04,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+740,Export an Order,finished,16.12.2016 19:25:33,16.12.2016 19:49:01,HL7,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+760,Create a new address catalog,finished,15.12.2016 17:13:10,15.12.2016 17:14:06,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+767,Todo list - change standard filter,finished,16.12.2016 06:00:56,16.12.2016 06:02:16,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+776,Start check - allow always,finished,16.12.2016 02:05:22,16.12.2016 02:07:27,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+793,Subprocess - resource fix,finished,16.12.2016 03:56:25,16.12.2016 03:59:01,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+796,Process program - autostart process (patient necessary),finished,16.12.2016 04:29:44,16.12.2016 04:32:32,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+797,Process program - autostart process,finished,16.12.2016 04:07:21,16.12.2016 04:09:34,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+809,Priority,finished,16.12.2016 04:52:13,16.12.2016 04:54:07,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+840,Record a note for a patient,finished,15.12.2016 22:44:01,15.12.2016 22:46:12,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+859,Write a new Word document (patient discharged  forward),finished,15.12.2016 18:23:03,15.12.2016 18:24:20,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+860,Write a new Word document (no case selected  forward),finished,15.12.2016 18:25:22,15.12.2016 18:26:37,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+861,Write a new Word document (other case selected  forward),finished,15.12.2016 18:27:47,15.12.2016 18:29:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+885,Distribute a document two times,finished,15.12.2016 20:34:20,15.12.2016 20:37:07,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9027,External apointment with specifically time,finished,15.12.2016 17:31:46,16.12.2016 16:21:38,HL7,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9034,Search appointments by Workarea Termine der Station  Appointments from Ward (for the actual day),failed,15.12.2016 19:27:43,15.12.2016 19:29:55,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9082,Role login - DWC - general mechanism (multiple roles available),finished,15.12.2016 17:51:14,15.12.2016 17:54:13,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9085,Create work organizers (Organisationsmittel),finished,16.12.2016 02:24:18,16.12.2016 02:27:33,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9094,Role login - OWC without a role,finished,15.12.2016 18:04:46,15.12.2016 18:07:17,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9101,User login - DWC - user specified by MPA parameter -user,finished,15.12.2016 17:44:37,15.12.2016 17:46:09,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9102,ACT property set as command line parameter,finished,15.12.2016 20:25:48,15.12.2016 20:26:45,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9106,Role login - DWC without a role,finished,15.12.2016 18:03:22,15.12.2016 18:04:37,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9107,Password query - specify invalid password by MPA parameter -user,finished,15.12.2016 18:09:24,15.12.2016 18:10:34,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9120,Password query - specify invalid password in user login dialog,finished,15.12.2016 17:47:37,15.12.2016 17:51:05,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9179,Give a patient time off,finished,15.12.2016 23:40:26,15.12.2016 23:41:59,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9188,Print Organisationsmittel (multiple selection),finished,16.12.2016 02:30:47,16.12.2016 02:33:05,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9189,Print Organisationsmittel (change number of copies),finished,16.12.2016 02:33:14,16.12.2016 02:35:08,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9202,Laborbefunde für alle Aufenthalte anzeigen,finished,16.12.2016 00:58:04,16.12.2016 00:59:23,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9203,View laboratory cumulative finding,finished,16.12.2016 00:55:04,16.12.2016 00:56:26,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+921,Login window,finished,15.12.2016 21:39:23,15.12.2016 21:40:45,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9233,Coding of several procedures via hitlists,finished,16.12.2016 00:55:29,16.12.2016 00:56:55,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9234,Coding of diagnoses and procedures via hitlists,finished,16.12.2016 00:46:03,16.12.2016 00:47:29,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9237,Organisationsmittel - Security settings,finished,16.12.2016 02:35:16,16.12.2016 02:36:29,Label and Formular Printing,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9242,Print and distribute an existing document (with page selection [page 1]),failed,15.12.2016 20:37:12,15.12.2016 20:42:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9243,Print and distribute an existing document (with page selection [page 1-2]),failed,15.12.2016 20:42:39,15.12.2016 20:49:02,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+925,Öffnen von Standard  DWC Workareas,finished,15.12.2016 20:01:50,15.12.2016 20:07:59,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9277,Admission, numbers and letters into names,finished,16.12.2016 06:26:06,16.12.2016 06:31:39,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9285,Update view DokumentEditor when changing User,finished,15.12.2016 21:08:09,15.12.2016 21:11:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9290,Todo list caching - user-role-change (switch between lists),finished,16.12.2016 03:26:20,16.12.2016 03:27:37,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+934,Todo list - entries,finished,16.12.2016 02:52:20,16.12.2016 02:53:54,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+935,Todo list - switch between lists,finished,16.12.2016 03:06:15,16.12.2016 03:07:07,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9381,Creation of a minimum Metaprocess,finished,16.12.2016 00:25:37,16.12.2016 00:29:21,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9382,Copy of a minimum Metaprocess,finished,16.12.2016 00:29:24,16.12.2016 00:32:42,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9384,New version of existing Metaprocess (Visio),finished,16.12.2016 00:47:50,16.12.2016 00:49:28,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9388,Delete CTP,finished,15.12.2016 18:02:07,15.12.2016 18:05:01,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9399,Open Process Builder (Visio), Visio installed,finished,16.12.2016 00:59:33,16.12.2016 01:00:24,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9404,Insert Tasks,finished,16.12.2016 01:00:30,16.12.2016 01:02:00,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9405,Remove Tasks,finished,16.12.2016 01:02:05,16.12.2016 01:03:02,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9406,Rename Tasks,finished,16.12.2016 01:03:07,16.12.2016 01:03:51,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9432,Process Builder Search Functionality,finished,16.12.2016 00:46:19,16.12.2016 00:47:45,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9433,Versions - activate,finished,16.12.2016 00:39:23,16.12.2016 00:43:15,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9441,Change Priority,finished,16.12.2016 01:17:06,16.12.2016 01:18:31,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+947,Todo list - available (multiple),finished,16.12.2016 02:51:18,16.12.2016 02:51:39,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9470,Add Todo - Create New Todo,finished,16.12.2016 01:03:56,16.12.2016 01:04:52,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9476,Edit Todo - Open Existing Todo,finished,16.12.2016 01:04:57,16.12.2016 01:06:00,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9489,Generate Context Position - Single Todo,finished,16.12.2016 01:08:41,16.12.2016 01:11:06,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+949,Start Workflow - open workarea,finished,16.12.2016 02:24:13,16.12.2016 02:25:32,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9490,Remove generated Contex Position - Single Todo,finished,16.12.2016 01:11:11,16.12.2016 01:12:34,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9494,Remove generated Context Position - By Task,finished,16.12.2016 01:12:39,16.12.2016 01:14:46,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9496,Edit Context Position - Open Dialog,finished,16.12.2016 01:15:38,16.12.2016 01:17:01,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9497,Add Context Position - 'Add (by Todo)' Dialog,finished,16.12.2016 01:14:51,16.12.2016 01:15:33,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9519,Task Inconsistency - Two Todos With Forwarding Possibility,finished,16.12.2016 00:50:38,16.12.2016 00:51:37,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9521,Export of a Minimum Metaprocess,finished,16.12.2016 01:24:51,16.12.2016 01:26:37,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9523,Import of a Minimum Metaprocess - Different System,finished,16.12.2016 01:21:44,16.12.2016 01:24:46,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9557,Search for and select a stay in WA LKF Arbeitsplatz,finished,16.12.2016 00:24:40,16.12.2016 00:25:49,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9560,Recording diagnosis after change of UserRole,finished,16.12.2016 00:08:08,16.12.2016 00:11:26,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9564,Medizinisch entlassen of a patient & scoring,finished,16.12.2016 01:11:22,16.12.2016 01:16:25,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9574,Forwarding Inconsistency - Task in Forward-Mode But No Successor,finished,16.12.2016 00:51:41,16.12.2016 00:52:34,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+959,Cancel a transfer,finished,15.12.2016 23:34:02,15.12.2016 23:35:39,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9604,Record of diagnosis after discharge (BM),finished,15.12.2016 23:09:32,15.12.2016 23:13:17,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9641,Todo list - tooltip (2 clients),finished,16.12.2016 03:12:55,16.12.2016 03:18:13,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9642,Process program - extend and forward (multiple clients),finished,16.12.2016 03:37:08,16.12.2016 03:48:11,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9645,Transfer patient into an occupied bed,finished,15.12.2016 23:10:16,15.12.2016 23:11:26,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9650,Transfer patient to another ward (pop-up menu),finished,15.12.2016 23:22:25,15.12.2016 23:27:52,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9651,Discharge Patient,finished,15.12.2016 23:44:42,15.12.2016 23:46:23,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9652,Transfer patient to a full ward,finished,15.12.2016 23:27:57,15.12.2016 23:30:31,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9653,Transfer patient to a booked up ward,finished,15.12.2016 23:30:34,15.12.2016 23:32:08,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9654,Transfer patient to a ward with locked beds,finished,15.12.2016 23:32:14,15.12.2016 23:33:58,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9656,Assign symbol to bed,finished,15.12.2016 22:35:19,15.12.2016 22:36:15,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9657,Record of an order (1 ordertype associated),finished,16.12.2016 06:31:42,16.12.2016 06:33:54,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9659,Selection of a form  (2 or more ordertypes associated),finished,16.12.2016 06:33:59,16.12.2016 06:36:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+966,Aufenthalt einsetzen,finished,16.12.2016 00:37:32,16.12.2016 00:40:40,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9661,Order position in order summary (value 1),finished,16.12.2016 07:42:20,16.12.2016 07:43:33,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9662,Tooltip on an empty bed location,finished,15.12.2016 22:54:45,15.12.2016 22:56:04,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9663,Order position in order summary (value 0),finished,16.12.2016 07:43:38,16.12.2016 07:45:48,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9664,Plan an appointment (for a patient and a process),finished,15.12.2016 17:13:20,15.12.2016 17:14:44,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9665,Order position in order summary (value 2),finished,16.12.2016 07:45:52,16.12.2016 07:47:06,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9669,Order position in order summary (value 3),finished,16.12.2016 07:47:11,16.12.2016 07:48:25,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+967,Aktualisierung,finished,16.12.2016 00:35:27,16.12.2016 00:37:25,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9672,Save checks on order (Mandatory field),finished,16.12.2016 06:36:21,16.12.2016 06:37:25,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9673,Save checks on order (Mandatory field) + Error message,finished,16.12.2016 06:37:30,16.12.2016 06:38:38,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9675,Default value on orderposition (type ''string''),finished,16.12.2016 06:38:43,16.12.2016 06:39:36,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9677,Save checks on order (plausibility check),finished,16.12.2016 06:47:59,16.12.2016 06:50:03,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9680,Save checks on order (plausibility check) + Warning message,finished,16.12.2016 06:50:07,16.12.2016 06:51:16,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9682,Open an existing Word document,finished,15.12.2016 19:22:27,15.12.2016 19:24:08,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9685,New document existing cust,finished,15.12.2016 18:18:39,15.12.2016 18:22:57,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9687,Default value on orderposition (type ''boolean''),finished,16.12.2016 06:39:41,16.12.2016 06:40:35,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9688,Plan an appointment for a patient (without a process),finished,15.12.2016 17:14:49,15.12.2016 17:15:53,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9689,Plan an appointment for a process (without a patient),finished,15.12.2016 17:15:58,15.12.2016 17:16:48,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9692,Save checks on order (Additional field),finished,16.12.2016 06:40:39,16.12.2016 06:41:44,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9693,Save checks on order (Additional field) + Error message,finished,16.12.2016 06:41:48,16.12.2016 06:42:44,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9694,Save checks on order (Additional field + text) + error message,finished,16.12.2016 06:42:49,16.12.2016 06:43:47,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9696,Edit an existing word document,finished,15.12.2016 19:26:44,15.12.2016 19:28:31,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9697,Use connections in an order,finished,16.12.2016 06:43:52,16.12.2016 06:44:48,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9698,Edit a validated word document,finished,15.12.2016 19:28:36,15.12.2016 19:29:35,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9703,Action of popup-menu in case search (show patient record),finished,15.12.2016 20:13:04,15.12.2016 20:15:07,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9705,Action of popup-menu in case search (show diagnoses - procedures),finished,15.12.2016 20:15:13,15.12.2016 20:16:23,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9706,Action of popup-menu in case search (show orders),finished,15.12.2016 20:16:28,15.12.2016 20:17:31,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9707,Action of popup-menu in case search (show appointments),finished,15.12.2016 20:17:36,15.12.2016 20:18:40,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9708,Action of popup-menu in case search (show process-planning),finished,15.12.2016 20:18:45,15.12.2016 20:19:48,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9709,Action of popup-menu in case search (show patient data),finished,15.12.2016 20:19:53,15.12.2016 20:21:14,Basics,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+971,Save and delete procedures (MELs),finished,16.12.2016 01:36:01,16.12.2016 01:37:29,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9711,Plan an appointment (without a patient, without a process),finished,15.12.2016 17:16:53,15.12.2016 17:17:41,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9712,Move an appointment by drag&drop into available area,finished,15.12.2016 18:59:20,15.12.2016 19:01:44,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9713,Move an appointment by cut&paste (keyboard) into available area,finished,15.12.2016 19:03:32,15.12.2016 19:05:10,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9714,Distribute an existing Word document,finished,15.12.2016 20:16:53,15.12.2016 20:19:19,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9722,Forwarding Inconsistency - Task in NoForwardAllowed-Mode,finished,16.12.2016 00:52:37,16.12.2016 00:53:30,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9733,Transfer new-admitted patient from pool to bed,finished,15.12.2016 23:01:52,15.12.2016 23:04:07,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9746,AnfoSaveCheck CFT,finished,16.12.2016 05:14:48,16.12.2016 05:16:53,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9747,Delete a started appointment,finished,15.12.2016 18:12:01,15.12.2016 18:13:57,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9755,SpeechMike - Create a document based on a dictation,finished,15.12.2016 23:30:13,15.12.2016 23:34:14,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9757,Search for a patient with specific symbols testcase 1,finished,16.12.2016 13:05:26,16.12.2016 13:06:54,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+976,Open todo - lock workplace (multiple clients),finished,16.12.2016 05:02:31,16.12.2016 05:09:49,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9760,Save procedures by an order in workflow,finished,16.12.2016 12:08:55,16.12.2016 12:11:18,Order,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9761,Ambulatory new admission without previous cases,finished,16.12.2016 05:54:37,16.12.2016 06:04:25,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9765,User change - general mechanism,finished,15.12.2016 18:24:56,15.12.2016 18:28:19,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9769,Role change - general mechanism (multiple roles available),finished,15.12.2016 19:11:26,15.12.2016 19:15:08,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9770,User change - available startable meta processes,finished,15.12.2016 19:07:10,15.12.2016 19:11:17,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9771,Role change - security restrictions when accessing wards,finished,15.12.2016 19:27:26,15.12.2016 19:33:01,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9772,In-patient new admission without previous cases,finished,16.12.2016 07:50:37,16.12.2016 08:03:51,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9773,User change - security restrictions when reading documents,finished,15.12.2016 18:55:34,15.12.2016 19:01:02,Session Handling,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9774,Record a procedure,finished,16.12.2016 01:30:34,16.12.2016 01:33:38,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9775,Record a diagnosis,finished,15.12.2016 23:28:48,15.12.2016 23:30:46,Diagnoses Procedure,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9776,Ambulatory new admission with previous cases,finished,16.12.2016 06:04:43,16.12.2016 06:12:14,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9778,Search for in-patient by admission number,finished,16.12.2016 12:13:44,16.12.2016 12:15:02,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9779,In-patient new admission with previous cases,finished,16.12.2016 07:41:45,16.12.2016 07:50:25,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9788,Search for out-patient case by admission number,finished,16.12.2016 12:12:21,16.12.2016 12:13:36,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9790,Search for out-patient case by name,finished,16.12.2016 12:16:59,16.12.2016 12:17:44,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9792,Search for out-patient case by wildcard,finished,16.12.2016 12:17:53,16.12.2016 12:18:39,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9793,Search for in-patient by name,finished,16.12.2016 12:18:48,16.12.2016 12:19:32,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9794,Search for in-patient by wildcard,finished,16.12.2016 12:19:42,16.12.2016 12:20:32,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9795,Search for patient by name and first name,finished,16.12.2016 12:20:42,16.12.2016 12:21:30,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9796,Search for patient by wildcard,finished,16.12.2016 12:21:41,16.12.2016 12:22:31,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9797,New admission for Bed Management,finished,15.12.2016 21:38:17,15.12.2016 21:45:49,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9798,Show cases by ward search,finished,16.12.2016 12:26:19,16.12.2016 12:26:56,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9799,Error message - no case number,finished,16.12.2016 12:11:49,16.12.2016 12:12:13,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9800,Completion of case number,finished,16.12.2016 12:07:56,16.12.2016 12:11:41,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9801,Error message - insufficient search search (too many results),finished,16.12.2016 12:16:23,16.12.2016 12:16:51,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9803,Add a new relation between two visits,finished,16.12.2016 13:07:05,16.12.2016 13:12:02,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9817,Start an appointment (with patient and process) manually,finished,15.12.2016 19:42:38,15.12.2016 19:45:06,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9822,SpeechMike - Listen dictation,finished,15.12.2016 23:14:20,15.12.2016 23:18:13,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9824,In-patient new admission (previous case co-insured) change from co-insured to self-insured,finished,16.12.2016 10:34:38,16.12.2016 10:40:35,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9825,Check wards in OWC (all wards must be shown),finished,16.12.2016 12:27:08,16.12.2016 12:28:58,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9830,Plan an appointment in a read-only area of the calendar,finished,15.12.2016 17:17:47,15.12.2016 17:19:04,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9831,Plan an appointment in the past,finished,15.12.2016 17:19:08,15.12.2016 17:21:24,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9832,Plan an appointment in a not available area of the calendar and move it,finished,15.12.2016 17:25:03,15.12.2016 17:26:16,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9837,Transfer patient on ward (pop-up menu) (SAP) (Show details),finished,15.12.2016 23:06:46,15.12.2016 23:08:23,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9838,Transfer patient on ward (pop-up menu) Change of Class (SAP),finished,15.12.2016 23:08:28,15.12.2016 23:10:12,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9839,Transfer patient to another specialty on same ward (SAP),finished,15.12.2016 23:11:30,15.12.2016 23:12:53,Bed management,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9840,Plan an appointment in a not available area of the calendar,finished,15.12.2016 17:21:30,15.12.2016 17:23:36,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9841,Plan an appointment (process with order),finished,15.12.2016 17:26:21,15.12.2016 17:27:13,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9846,Write and distribute a new Word document,finished,15.12.2016 18:30:40,15.12.2016 18:32:44,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9847,Write a new Word document without save,finished,15.12.2016 18:32:49,15.12.2016 18:34:35,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9850,Todo-list update - when active (mode 2),finished,16.12.2016 03:20:54,16.12.2016 03:26:10,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9851,Write a new Word document and show the existing documents,finished,15.12.2016 19:19:13,15.12.2016 19:22:22,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9852,Write a new Word document and show the appointment calendar,finished,15.12.2016 19:13:55,15.12.2016 19:16:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9854,Insert the current date to a new Word document,finished,15.12.2016 18:45:12,15.12.2016 18:47:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9867,From todo list - menu entries after role change,finished,16.12.2016 02:21:00,16.12.2016 02:24:04,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9872,Assign symbol to a case correct symbols are shown,finished,16.12.2016 12:55:36,16.12.2016 12:59:48,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9873,Assign symbols to a patient,finished,16.12.2016 12:59:58,16.12.2016 13:02:43,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9875,Remove a symbol from a patient,finished,16.12.2016 13:02:51,16.12.2016 13:05:18,Patient Administration,443071,3.12,MPAQSEXECDESK01,MPAQSSNSEXEC1
+9892,Insert Subprocess - Multiple Stops,finished,16.12.2016 01:20:48,16.12.2016 01:21:39,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9894,Automatic symbol - add,finished,16.12.2016 00:45:04,16.12.2016 00:46:16,Customizing Tools,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9896,Automatic symbol at process (by metaprocess),finished,16.12.2016 06:02:25,16.12.2016 06:03:54,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9899,Set a valid document invalid,finished,15.12.2016 19:29:40,15.12.2016 19:30:55,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9900,Set an invalid document valid,finished,15.12.2016 19:31:00,15.12.2016 19:32:25,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9902,Edit an invalid document,finished,15.12.2016 19:32:30,15.12.2016 19:33:26,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9923,Plan an appointment without a specific point in time,finished,15.12.2016 17:31:50,15.12.2016 17:34:05,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9934,Insert a placeholder (name_vorname_titel),finished,15.12.2016 18:34:40,15.12.2016 18:38:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9939,Insert a referenced document (to patientALL),finished,15.12.2016 18:58:01,15.12.2016 19:04:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9954,Todo list - readonly, information dialog,finished,16.12.2016 03:27:45,16.12.2016 03:29:14,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9955,Write a new Word document (patient discharged  stop),finished,15.12.2016 18:24:25,15.12.2016 18:25:17,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9956,Write a new Word document (no case selected  stop),finished,15.12.2016 18:26:42,15.12.2016 18:27:42,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9957,Write a new Word document (other case selected  stop),finished,15.12.2016 18:29:30,15.12.2016 18:30:34,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9962,Plan multiple appointments - five daily appts, consider availabilities,finished,15.12.2016 17:53:29,15.12.2016 17:55:22,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9963,Modify a distributor entry (Should-be count),finished,15.12.2016 20:21:47,15.12.2016 20:24:32,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9966,Delete a distributor entry (pop-up menu),finished,15.12.2016 20:27:40,15.12.2016 20:29:10,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9967,Delete a distributor entry (button),finished,15.12.2016 20:29:15,15.12.2016 20:30:37,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9969,Print appointment,finished,15.12.2016 19:15:02,15.12.2016 19:17:03,Appointment,443071,3.12,MPAQSDEVDESK01,MPAQSSNSEXEC1
+9970,Delete a document,finished,15.12.2016 19:33:31,15.12.2016 19:34:36,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9975,Distribute a new document with a print template,finished,15.12.2016 20:24:37,15.12.2016 20:27:35,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9986,Insert a repeating text module (diagnoses),failed,15.12.2016 18:52:05,15.12.2016 18:57:53,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9993,Start check - prohibit discharged (discharged inpatient),finished,16.12.2016 02:08:55,16.12.2016 02:10:08,Workflow,443071,3.12,MPAQSEXECDESK02,MPAQSSNSEXEC1
+9998,Create a new document group,finished,15.12.2016 17:05:20,15.12.2016 17:07:09,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
+9999,Create a new document type,finished,15.12.2016 17:08:09,15.12.2016 17:08:45,Document,443071,3.12,MPAQSDEVDESK02,MPAQSSNSEXEC1
