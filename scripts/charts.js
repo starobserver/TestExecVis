@@ -42,7 +42,7 @@ function render_ModulesExecData(data){
 
         var xScale = d3.scaleBand().range([0, innerWidth], barPadding);
         var yScale = d3.scaleLinear().range([innerHeight, 0]);
-
+        var selection = null;
 
         xScale.domain(       data.map( function (d){ return d[xColumn]; }));
         yScale.domain([0, d3.max(data, function (d){ return d[yColumn]; })]);
@@ -52,23 +52,36 @@ function render_ModulesExecData(data){
         var bars = g.selectAll(".bar").data(data);
         //console.log(bars);
        
-        //bars.exit().remove();
-        bars.enter().append("rect")
+        var bars_enter = bars.enter().append("rect")
+
+        bars.merge(bars_enter)
           .attr("x",      function (d){ return               xScale(d[xColumn]); })
           .attr("width", xScale.bandwidth())
           .attr("y",      function (d){ return               yScale(d[yColumn]); })
           .attr("height", function (d){ return innerHeight - yScale(d[yColumn]); })
-          .attr("class", "bar");
+          .attr("class", "bar")
+          .append("title");
          
-        bars
+        bars.merge(bars_enter)
           .attr("x",      function (d){ return               xScale(d[xColumn]); })
           .attr("width", xScale.bandwidth())
           .attr("y",      function (d){ return               yScale(d[yColumn]); })
-          .attr("height", function (d){ return innerHeight - yScale(d[yColumn]); });
+          .attr("height", function (d){ return innerHeight - yScale(d[yColumn]); })
+          .on('click', function(d, i) {
+              //console.log(`clicked on: ${d} (${i})`);
+              //remove old selection
+              if (selection != null) {
+                selection.style('fill', 'steelblue');
+              }
+              
+              selection = d3.select(this); // can't use arrow scoping
+              selection.style('fill', 'orange');
+            });
+        var bars_title = bars.merge(bars_enter).select("title")
+        bars_title.text((d) => d[xColumn]);
 
-        
-      // add the x Axis
-      //xAxisG.exit().remove()
+      bars.exit().remove();
+      // add the x Axis     
       xAxisG.call(d3.axisBottom(xScale))
       .selectAll("text")
     	.style("font-size", "10px")
@@ -77,11 +90,10 @@ function render_ModulesExecData(data){
       	.attr("dy", "-.55em")
       	.attr("transform", "rotate(-90)" );;
 
-      // add the y Axis
-      //yAxisG.exit().remove()
+      // add the y Axis      
       yAxisG.call(d3.axisLeft(yScale));
 
-
+      bars.exit().remove();
      
       }
 

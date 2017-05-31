@@ -1,2 +1,9 @@
 
- .bar { fill: steelblue; }
+.bar { 
+     fill: blue; 
+    fill-opacity: 0.7;
+    }
+
+.bar:hover {
+  fill-opacity: 1;
+}
